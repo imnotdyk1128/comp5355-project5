@@ -1,0 +1,302 @@
+{
+  "_comment": "Static indicators for in-browser miners, compiled from vendor reports and the Project 5 reading list (arXiv:1808.00811, arXiv:1809.02152, CCS'18 3243858). Matched case-insensitively against HTML and JavaScript. Loaders are the embedded script; pools are where the hashes go.",
+  "platforms": [
+    {
+      "platform": "Coinhive",
+      "status": "shut down 2019-09-11, still seen in archived pages and copies",
+      "currency": [
+        "XMR",
+        "BTL",
+        "GBT",
+        "SHIFT"
+      ],
+      "loader_indicators": [
+        "coinhive.com/lib/coinhive",
+        "coinhive.min.js",
+        "CoinHive.Anonymous",
+        "CoinHive.Optional",
+        "CoinHive.User",
+        "CoinHive.Auth",
+        "coinhub",
+        "Captcha.min.js",
+        "proxy.min.js"
+      ],
+      "api_indicators": [
+        "startMining",
+        "stopMining",
+        "setTarget",
+        "setThrottle",
+        "optOut",
+        "optIn"
+      ],
+      "pool_indicators": [
+        "coinhive.com:5555",
+        "ws://.coinhive",
+        "wss://.coinhive",
+        "xmr.pool.gntl.co.uk",
+        "v2.coinmine.pl"
+      ],
+      "reference": "https://blog.cockos.com/~luzer/?p=213"
+    },
+    {
+      "platform": "Crypto-Loot / Cudo",
+      "currency": [
+        "XMR",
+        "ETH",
+        "BTA",
+        "GRS",
+        "MIX"
+      ],
+      "loader_indicators": [
+        "crypto-loot.com/tags/v",
+        "cudo.money/js/cudo",
+        "cryptoloot",
+        "CryptoLoot.Anonymous"
+      ],
+      "api_indicators": [
+        "MinerJob",
+        "setPoolHost",
+        "cudominer"
+      ],
+      "pool_indicators": [
+        "pool.cudo.money",
+        "mine.cudo",
+        "eth.pool.cudo"
+      ]
+    },
+    {
+      "platform": "JSEcoin",
+      "currency": [
+        "JSE",
+        "XBY",
+        "LTC",
+        "XEON",
+        "CASHR"
+      ],
+      "loader_indicators": [
+        "jsecoin.com/load/",
+        "data-jsesiaid",
+        "jsedata",
+        "addJS"
+      ],
+      "api_indicators": [
+        "jse.script.type",
+        "jsecoin",
+        "payPerVisit"
+      ],
+      "pool_indicators": [
+        "pool.jsecoin.com",
+        "www.jsecoin.com"
+      ]
+    },
+    {
+      "platform": "Project Poi",
+      "currency": [
+        "XPO"
+      ],
+      "loader_indicators": [
+        "projectpoi.com/api/miner",
+        "webminer",
+        "poi-web-miner"
+      ],
+      "api_indicators": [
+        "WebMiner",
+        "miner.init",
+        "xpMining"
+      ],
+      "pool_indicators": [
+        "pool.projectpoi.com",
+        "node.projectpoi.com"
+      ]
+    },
+    {
+      "platform": "DeepBit / MinerAlt",
+      "currency": [
+        "XMR",
+        "ETN",
+        "BTL",
+        "GRS"
+      ],
+      "loader_indicators": [
+        "deepbit.io/browser/",
+        "mineralt.io/browser/",
+        "webminepool"
+      ],
+      "api_indicators": [
+        "WebMinerController",
+        "webminecontroller.miner",
+        "Miner.start"
+      ],
+      "pool_indicators": [
+        "mine.deepbit",
+        "pool.mineralt",
+        "ws://mine.",
+        "wss://mine."
+      ]
+    },
+    {
+      "platform": "CoinImp",
+      "currency": [
+        "XMR",
+        "ETN",
+        "QW",
+        "PLX"
+      ],
+      "loader_indicators": [
+        "cdn.coinimp.com/miner/mining.min.js",
+        "coinimp",
+        "CoinImp.setup"
+      ],
+      "api_indicators": [
+        "CoinImp",
+        "mining.min.js",
+        "userOptions"
+      ],
+      "pool_indicators": [
+        "server.coinimp.com",
+        "pool.coinimp"
+      ]
+    },
+    {
+      "platform": "Minero / AuthedMine",
+      "currency": [
+        "XMR"
+      ],
+      "loader_indicators": [
+        "minero.cc/loader.js",
+        "authedmine.com/lib/minero",
+        "minero.pw",
+        "authedmine"
+      ],
+      "api_indicators": [
+        "Miner.start",
+        "minero"
+      ],
+      "pool_indicators": [
+        "wss://ws-authed",
+        "pool.minero",
+        "ws.minero"
+      ]
+    },
+    {
+      "platform": "WebXMR",
+      "currency": [
+        "XMR"
+      ],
+      "loader_indicators": [
+        "webxmr.com/loader/loader.js",
+        "webxmr"
+      ],
+      "api_indicators": [
+        "WebXMR",
+        "startMining"
+      ],
+      "pool_indicators": [
+        "pool.webxmr.com"
+      ]
+    },
+    {
+      "platform": "Coin-Worker / Cookie:coinhive",
+      "currency": [
+        "XMR"
+      ],
+      "loader_indicators": [
+        "coinworker.js",
+        "coinhive.min.js",
+        "coin-worker.js"
+      ],
+      "api_indicators": [
+        "workerUrl"
+      ],
+      "pool_indicators": [
+        "ws.coinworker",
+        "wss://.coin-worker"
+      ]
+    },
+    {
+      "platform": "AdvertiseSpace / Ppoi-style throttled miner",
+      "currency": [
+        "XMR",
+        "ETN"
+      ],
+      "loader_indicators": [
+        "advertisespace",
+        "asm-miner",
+        "throttle.min"
+      ],
+      "api_indicators": [
+        "throttle",
+        "setThrottle"
+      ],
+      "pool_indicators": [
+        "pool.advertisespace"
+      ]
+    },
+    {
+      "platform": "Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",
+      "status": "our controlled known-positive, not a real-world platform",
+      "currency": [
+        "LAB"
+      ],
+      "loader_indicators": [
+        "miner_loader.js",
+        "miner_worker.js",
+        "busy_worker.js"
+      ],
+      "api_indicators": [
+        "lab-inbrowser-miner",
+        "sha256Short",
+        "__lab.stats",
+        "hashrate"
+      ],
+      "pool_indicators": [
+        "/stratum",
+        "ws://127.0.0.1:8777"
+      ]
+    }
+  ],
+  "generic": {
+    "description": "Behaviour that is rare in ordinary pages and common in browser miners; used to rank candidates when no named platform matches.",
+    "strong": [
+      "CryptoNight",
+      "cryptonight_light",
+      "xmr-stak",
+      "stratum",
+      "jobId",
+      "submitShare",
+      "getWork",
+      "exnoncE",
+      "hashrate",
+      "share_difficulty",
+      "nicehash"
+    ],
+    "weak": [
+      "new Worker(URL.createObjectURL",
+      "WebAssembly.instantiateStreaming",
+      "wss://",
+      "atob(",
+      "String.fromCharCode(",
+      "document.write(unescape(",
+      "eval(",
+      "Function(\"return",
+      "PHPSESSID=coinhive",
+      "webassembly.instantiate",
+      "emscripten"
+    ],
+    "worker_and_wasm_pattern": "dedicated worker that instantiates a wasm module and keeps one core busy",
+    "note": "strong = mining-specific protocol or algorithm tokens; WebAssembly/emscripten are only weak signals because ordinary chart, codec and analytics scripts use them too"
+  },
+  "wallet_patterns": {
+    "monero": "\\b4[0-9AB][123456789ABCDEFGHJKLMNPQRSTUVWXYZ]{93}\\b",
+    "bitcoin_legacy": "\\b[13][a-km-zA-HJ-NP-Z1-9]{25,34}\\b",
+    "bitcoin_bech32": "\\bbc1[qpstuvxyxz][acdefghjklmnpqrstuvwxyz024579]{38,58}\\b",
+    "ethereum": "\\b0x[0-9a-fA-F]{40}\\b",
+    "bytecoin": "\\b[abcdef0-9]{64}\\b"
+  },
+  "pool_url_patterns": [
+    "ws:\\/\\/[\\w.-]+:\\d+",
+    "wss:\\/\\/[\\w.-]+:\\d+",
+    "wss:\\/\\/[\\w.-]+/(stratum|miner|mine|api)",
+    "https?:\\/\\/[\\w.-]*(pool|mine|mining|stratum)[\\w.-]*"
+  ]
+}

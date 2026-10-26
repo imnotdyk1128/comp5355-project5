@@ -1,0 +1,40 @@
+# Stage 1 seed list: URLs to archive and scan.
+# One URL per line; '#' starts a comment; trailing text after a comma is ignored.
+#
+# Reality check: Coinhive closed in Sept 2019 and most commercial in-browser
+# miners went with it, so finding live miners on the public web today is a
+# hunting problem, not a sampling problem. This file therefore has three
+# sections: (1) negatives that must scan clean, (2) historically reported
+# mining hosts that may be dead but prove the pipeline degrades gracefully,
+# (3) your own candidates - paste URLs from a threat feed, an archive dataset,
+# or the browser history captured inside the VM.
+
+# ---- 1. known-clean controls (must be labelled clean) ----
+https://example.com
+https://www.wikipedia.org
+https://httpbin.org/html
+https://www.python.org
+
+# ---- 2. historically reported miner infrastructure (mostly offline now) ----
+# https://coinhive.com
+# https://www.coinhive.com/lib/coinhive.min.js
+# https://crypto-loot.com
+# https://www.jsecoin.com
+# https://projectpoi.com
+# https://deepbit.io
+# https://coinimp.com
+# https://webxmr.com
+# https://minero.cc
+
+# ---- 3. your candidates ----
+# Feeds worth pulling from (see README, "collecting more pages"):
+#   URLhaus:      https://urlhaus-db.abuse.ch/downloads/csv_recent/   (filter tags containing crypto/mine)
+#   Common Crawl: https://commoncrawl.org/the-data/get-started/       (grep WARC for coinhive/cryptonight)
+#   archive.org:  https://web.archive.org/web/2018*/<domain>          (historic copies of flagged pages)
+#
+# The lab pages are the controlled known-positive set. They must be served
+# first (python lab/lab_server.py) or scanned straight off disk with
+#   python collect/scan_static.py --dir lab/web
+http://127.0.0.1:8080/mining
+http://127.0.0.1:8080/busy
+http://127.0.0.1:8080/clean

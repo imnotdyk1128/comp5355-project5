@@ -1,0 +1,7 @@
+conn_id,trial_tag,worker,first_s,last_s,lifetime_s,frames,bytes_up,bytes_down,mean_frame_up,mean_frame_down,max_frame_up,up_kbps,down_kbps,shares,share_interval_mean_s,share_interval_sd_s,job_interval_mean_s,total
+1,mining1w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,283.237,315.886,32.65,61,3706.0,2541.0,148.2,70.6,149.0,0.908,0.623,24,1.16,0.86,2.97,6247.0
+2,mining1w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,320.429,355.127,34.7,64,3853.0,2716.0,148.2,71.5,149.0,0.888,0.626,25,1.44,1.21,2.88,6569.0
+3,mining2w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,357.467,392.421,34.95,59,3412.0,2655.0,148.3,73.8,149.0,0.781,0.608,22,1.65,2.38,2.8,6067.0
+4,mining2w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,394.864,427.192,32.33,48,2663.0,2310.0,147.9,77.0,149.0,0.659,0.572,17,2.0,3.36,2.94,4973.0
+5,mining4w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,431.442,466.24,34.8,65,3865.0,2787.0,148.7,71.5,149.0,0.889,0.641,25,1.12,2.21,2.9,6652.0
+6,mining4w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,469.268,502.357,33.09,78,4916.0,2970.0,149.0,66.0,149.0,1.189,0.718,32,0.86,2.01,3.01,7886.0

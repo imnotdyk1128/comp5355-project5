@@ -1,0 +1,79 @@
+{
+  "url": "lab\\web\\js\\miner_worker.js",
+  "score": 7.6,
+  "label": "miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",
+  "reasons": [
+    "2 generic mining token(s) matched",
+    "platform Project5 lab miner (emulated, SHA-256 PoW over WebSocket) score 3.0"
+  ],
+  "endpoints": [],
+  "wallets": {},
+  "files": [
+    {
+      "file": "miner_worker.js",
+      "features": {
+        "bytes": 2463,
+        "lines": 83,
+        "avg_line_len": 29.7,
+        "longest_line": 105,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.832,
+        "long_string_literals": 0,
+        "long_identifiers": 0,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 0, \"object_url_blob\": 0, \"webassembly\": 0, \"websocket\": 0, \"ws_urls\": 0, \"setinterval\": 2}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 0,
+        "c_object_url_blob": 0,
+        "c_webassembly": 0,
+        "c_websocket": 0,
+        "c_ws_urls": 0,
+        "c_setinterval": 2
+      },
+      "hits": [
+        {
+          "kind": "api",
+          "indicator": "sha256Short",
+          "file": "miner_worker.js",
+          "occurrences": 1,
+          "context": " msg[35] = (n >>> 24) & 255; sha.sha256Short(msg, out); hashes++; if ((o",
+          "platform": "Project5 lab miner (emulated, SHA-256 PoW over WebSocket)"
+        },
+        {
+          "kind": "api",
+          "indicator": "hashrate",
+          "file": "miner_worker.js",
+          "occurrences": 1,
+          "context": "stats', hashes: hashes, hashrate: elapsed > 0 ? hashes / elapsed : 0, ",
+          "platform": "Project5 lab miner (emulated, SHA-256 PoW over WebSocket)"
+        },
+        {
+          "kind": "strong",
+          "indicator": "jobId",
+          "file": "miner_worker.js",
+          "occurrences": 4,
+          "context": " self.postMessage({ cmd: 'share', jobId: job.jobId, nonce: found, ",
+          "platform": "generic"
+        },
+        {
+          "kind": "strong",
+          "indicator": "hashrate",
+          "file": "miner_worker.js",
+          "occurrences": 1,
+          "context": "stats', hashes: hashes, hashrate: elapsed > 0 ? hashes / elapsed : 0, ",
+          "platform": "generic"
+        }
+      ],
+      "iocs": {
+        "endpoints": [],
+        "wallets": {}
+      }
+    }
+  ]
+}

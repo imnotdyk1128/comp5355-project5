@@ -1,0 +1,12 @@
+body { font-family: Georgia, serif; margin: 0; background: #f6f5f2; color: #1c1c1c; }
+header { padding: 14px 24px; background: #232323; color: #fff; }
+header a { color: #fff; text-decoration: none; }
+main { max-width: 760px; margin: 24px auto; background: #fff; padding: 24px 32px; }
+h1 { font-size: 26px; }
+.byline { color: #777; font-size: 13px; }
+figure { margin: 18px 0; }
+figcaption { font-size: 12px; color: #666; }
+.widget { padding: 12px; background: #eef; border: 1px dashed #99a; font-size: 13px; }
+.comments { margin-top: 24px; }
+.comment { padding: 8px 0; border-bottom: 1px solid #eee; font-size: 14px; }
+footer { padding: 20px; text-align: center; color: #888; font-size: 12px; }

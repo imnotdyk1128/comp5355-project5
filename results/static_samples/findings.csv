@@ -1,0 +1,5 @@
+url,label,score,platforms,n_files,html_bytes,js_bytes,workers,webassembly,websockets,eval_calls,atob_calls,max_entropy,minified,n_strong_hits,endpoints,wallets,top_indicator,evidence_file
+collect\samples\sample_coinhive_style_loader.js,"miner:Coinhive, Coin-Worker / Cookie:coinhive, WebXMR",24.15,AdvertiseSpace / Ppoi-style throttled miner; Coin-Worker / Cookie:coinhive; Coinhive; WebXMR,1,0,1857,1,0,0,0,0,4.981,False,1,https://coinhive.com/lib/coinhive.min.js | wss://api.coinhive.com:5555 | wss://api.coinhive.com:5555/,,coinhive.com/lib/coinhive,evidence_collect_samples_sample_coinhive_style_loader_js.json
+collect\samples\sample_obfuscated_packer.js,suspicious,3.0,,1,0,1361,1,1,0,1,1,5.352,False,0,,,new Worker(URL.createObjectURL,evidence_collect_samples_sample_obfuscated_packer_js.json
+collect\samples\sample_analytics_hard_negative.js,clean,1.0,,1,0,1634,1,1,1,0,0,4.871,False,0,wss://realtime.example.com/live,,wss://,evidence_collect_samples_sample_analytics_hard_negative_j.json
+collect\samples\page_samples.html,clean,0.0,,1,0,0,0,0,0,0,0,4.781,False,0,,,,evidence_collect_samples_page_samples_html.json

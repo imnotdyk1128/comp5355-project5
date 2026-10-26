@@ -1,0 +1,8 @@
+url,label,score,platforms,n_files,html_bytes,js_bytes,workers,webassembly,websockets,eval_calls,atob_calls,max_entropy,minified,n_strong_hits,endpoints,wallets,top_indicator,evidence_file
+http://127.0.0.1:8080/mining,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",30.75,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",3,577,6655,1,0,1,0,0,4.946,False,3,ws://127.0.0.1:8777/stratum,,miner_loader.js,evidence_http_127_0_0_1_8080_mining.json
+http://127.0.0.1:8080/busy,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",30.75,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",3,573,6655,1,0,1,0,0,4.946,False,3,ws://127.0.0.1:8777/stratum,,miner_loader.js,evidence_http_127_0_0_1_8080_busy.json
+https://www.python.org,clean,1.65,,7,52779,418647,0,0,0,0,0,5.372,True,0,,,eval(,evidence_https_www_python_org.json
+https://example.com,clean,0.0,,2,577,1963,0,0,0,0,0,6.116,True,0,,,,evidence_https_example_com.json
+https://www.wikipedia.org,clean,0.0,,0,0,0,0,0,0,0,0,0,False,0,,,,evidence_https_www_wikipedia_org.json
+https://httpbin.org/html,clean,0.0,,1,3741,0,0,0,0,0,0,4.405,True,0,,,,evidence_https_httpbin_org_html.json
+http://127.0.0.1:8080/clean,clean,0.0,,2,478,1823,0,0,0,0,0,4.946,False,0,,,,evidence_http_127_0_0_1_8080_clean.json

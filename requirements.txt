@@ -1,0 +1,9 @@
+psutil>=5.9
+playwright>=1.40
+aiohttp>=3.9
+requests>=2.31
+beautifulsoup4>=4.12
+matplotlib>=3.8
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0

@@ -1,0 +1,161 @@
+{
+  "url": "collect\\samples\\sample_coinhive_style_loader.js",
+  "score": 24.15,
+  "label": "miner:Coinhive, Coin-Worker / Cookie:coinhive, WebXMR",
+  "reasons": [
+    "1 generic mining token(s) matched",
+    "platform Coinhive score 13.1",
+    "platform Coin-Worker / Cookie:coinhive score 4.7",
+    "platform WebXMR score 1.8"
+  ],
+  "endpoints": [
+    "https://coinhive.com/lib/coinhive.min.js",
+    "wss://api.coinhive.com:5555",
+    "wss://api.coinhive.com:5555/"
+  ],
+  "wallets": {},
+  "files": [
+    {
+      "file": "sample_coinhive_style_loader.js",
+      "features": {
+        "bytes": 1857,
+        "lines": 42,
+        "avg_line_len": 44.2,
+        "longest_line": 103,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.981,
+        "long_string_literals": 0,
+        "long_identifiers": 0,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 1, \"object_url_blob\": 1, \"webassembly\": 0, \"websocket\": 0, \"ws_urls\": 2, \"setinterval\": 0}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 1,
+        "c_object_url_blob": 1,
+        "c_webassembly": 0,
+        "c_websocket": 0,
+        "c_ws_urls": 2,
+        "c_setinterval": 0
+      },
+      "hits": [
+        {
+          "kind": "loader",
+          "indicator": "coinhive.com/lib/coinhive",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": "oaded) return; var LOADER = \"https://coinhive.com/lib/coinhive.min.js\"; var POOL = \"wss://api.coinhi",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "loader",
+          "indicator": "coinhive.min.js",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": " var LOADER = \"https://coinhive.com/lib/coinhive.min.js\"; var POOL = \"wss://api.coinhive.com:",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "startMining",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 3,
+          "context": "55, worker + WebAssembly indicators, startMining/stopMining API tokens. */ (function (w",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "stopMining",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 2,
+          "context": "r + WebAssembly indicators, startMining/stopMining API tokens. */ (function (window) { ",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "setTarget",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": " msg: \"cx\" }); return this; }; this.setTarget = function (t) { worker.postMessage({ m",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "pool",
+          "indicator": "coinhive.com:5555",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 2,
+          "context": ": platform Coinhive, endpoint wss://api.coinhive.com:5555, worker + WebAssembly indicators, st",
+          "platform": "Coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "startMining",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 3,
+          "context": "55, worker + WebAssembly indicators, startMining/stopMining API tokens. */ (function (w",
+          "platform": "WebXMR"
+        },
+        {
+          "kind": "loader",
+          "indicator": "coinhive.min.js",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": " var LOADER = \"https://coinhive.com/lib/coinhive.min.js\"; var POOL = \"wss://api.coinhive.com:",
+          "platform": "Coin-Worker / Cookie:coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "workerUrl",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 2,
+          "context": "e ? 1 : (options.threads || 1); var workerUrl = LOADER + \"?worker=1\"; var worker ",
+          "platform": "Coin-Worker / Cookie:coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "throttle",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": "ptions || {}; var threads = options.throttle ? 1 : (options.threads || 1); var w",
+          "platform": "AdvertiseSpace / Ppoi-style throttled miner"
+        },
+        {
+          "kind": "strong",
+          "indicator": "CryptoNight",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": " { user: a || TOKEN, pool: POOL, algo: \"cryptonight\" } }); return this; }; th",
+          "platform": "generic"
+        },
+        {
+          "kind": "weak",
+          "indicator": "new Worker(URL.createObjectURL",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 1,
+          "context": " LOADER + \"?worker=1\"; var worker = new Worker(URL.createObjectURL(new Blob([ \"importScripts('\" + wo",
+          "platform": "generic"
+        },
+        {
+          "kind": "weak",
+          "indicator": "wss://",
+          "file": "sample_coinhive_style_loader.js",
+          "occurrences": 2,
+          "context": "d findings: platform Coinhive, endpoint wss://api.coinhive.com:5555, worker + WebAs",
+          "platform": "generic"
+        }
+      ],
+      "iocs": {
+        "endpoints": [
+          "https://coinhive.com/lib/coinhive.min.js",
+          "wss://api.coinhive.com:5555",
+          "wss://api.coinhive.com:5555/"
+        ],
+        "wallets": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+ts,elapsed_s,conn_id,dir,frame_bytes,msg_type,detail,worker,difficulty
+2026-10-26T09:02:21.795+00:00,283.237,1,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:21.795+00:00,283.237,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:24.407+00:00,285.849,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.603+00:00,288.046,1,in,148,share,nonce=6278788 job=95,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.603+00:00,288.046,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.743+00:00,288.185,1,in,148,share,nonce=6670824 job=95,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.743+00:00,288.185,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.803+00:00,288.245,1,in,148,share,nonce=6834788 job=95,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:26.803+00:00,288.245,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:27.414+00:00,288.856,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:28.885+00:00,290.327,1,in,148,share,nonce=4008607 job=96,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:28.885+00:00,290.327,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:29.707+00:00,291.149,1,in,148,share,nonce=6400310 job=96,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:29.707+00:00,291.15,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:30.396+00:00,291.838,1,in,148,share,nonce=8397630 job=96,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:30.396+00:00,291.838,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:30.396+00:00,291.838,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:30.527+00:00,291.969,1,in,147,share,nonce=258706 job=97,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:30.527+00:00,291.969,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:31.344+00:00,292.786,1,in,148,share,nonce=2598405 job=97,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:31.344+00:00,292.786,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:32.725+00:00,294.167,1,in,148,share,nonce=6594567 job=97,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:32.725+00:00,294.167,1,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:33.265+00:00,294.707,1,in,148,share,nonce=8186085 job=97,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:33.265+00:00,294.707,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:33.401+00:00,294.843,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:35.344+00:00,296.786,1,in,148,share,nonce=5532716 job=98,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:35.345+00:00,296.787,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:36.397+00:00,297.839,1,out,124,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:38.177+00:00,299.619,1,in,148,share,nonce=5020027 job=99,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:38.177+00:00,299.619,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:39.402+00:00,300.844,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:40.445+00:00,301.887,1,in,149,share,nonce=2821381 job=100,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:40.445+00:00,301.887,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:42.408+00:00,303.851,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:42.443+00:00,303.885,1,in,146,share,nonce=9952 job=101,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:42.443+00:00,303.885,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.196+00:00,306.638,1,in,149,share,nonce=7909932 job=101,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.196+00:00,306.638,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.404+00:00,306.846,1,in,149,share,nonce=8524848 job=101,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.404+00:00,306.846,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.404+00:00,306.846,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.647+00:00,307.089,1,in,148,share,nonce=657943 job=102,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:45.647+00:00,307.089,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:47.267+00:00,308.709,1,in,149,share,nonce=5373026 job=102,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:47.267+00:00,308.709,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:48.413+00:00,309.856,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:48.876+00:00,310.318,1,in,149,share,nonce=1194959 job=103,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:48.876+00:00,310.318,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:49.355+00:00,310.797,1,in,149,share,nonce=2580695 job=103,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:49.355+00:00,310.797,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:49.702+00:00,311.145,1,in,149,share,nonce=3584012 job=103,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:49.702+00:00,311.145,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:51.169+00:00,312.611,1,in,149,share,nonce=7808212 job=103,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:51.169+00:00,312.611,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:51.428+00:00,312.87,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:51.667+00:00,313.109,1,in,148,share,nonce=672096 job=104,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:51.668+00:00,313.11,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:53.231+00:00,314.673,1,in,149,share,nonce=5147397 job=104,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:53.231+00:00,314.673,1,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:54.444+00:00,315.886,1,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,22
+2026-10-26T09:02:58.987+00:00,320.429,2,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:02:58.987+00:00,320.429,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:02:59.071+00:00,320.513,2,in,140,share,nonce=5210 job=106,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:02:59.071+00:00,320.513,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:02:59.797+00:00,321.24,2,in,143,share,nonce=1864200 job=106,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:02:59.798+00:00,321.241,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:00.462+00:00,321.904,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:00.842+00:00,322.284,2,in,149,share,nonce=1076383 job=107,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:00.842+00:00,322.284,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:03.461+00:00,324.903,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:03.627+00:00,325.069,2,in,148,share,nonce=359005 job=108,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:03.627+00:00,325.069,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:04.597+00:00,326.039,2,in,149,share,nonce=3149159 job=108,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:04.597+00:00,326.039,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:05.816+00:00,327.258,2,in,149,share,nonce=6676375 job=108,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:05.816+00:00,327.258,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:06.465+00:00,327.907,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:09.476+00:00,330.918,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:09.843+00:00,331.285,2,in,148,share,nonce=957424 job=110,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:09.843+00:00,331.285,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:10.338+00:00,331.781,2,in,149,share,nonce=2385761 job=110,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:10.338+00:00,331.781,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:12.000+00:00,333.443,2,in,149,share,nonce=7245924 job=110,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:12.001+00:00,333.444,2,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:12.485+00:00,333.927,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:15.486+00:00,336.928,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:15.719+00:00,337.162,2,in,148,share,nonce=559480 job=112,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:15.719+00:00,337.162,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:17.521+00:00,338.963,2,in,149,share,nonce=5774315 job=112,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:17.521+00:00,338.963,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:18.491+00:00,339.933,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:20.554+00:00,341.996,2,in,149,share,nonce=5959728 job=113,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:20.554+00:00,341.996,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:21.507+00:00,342.95,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:24.510+00:00,345.952,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:24.670+00:00,346.112,2,in,148,share,nonce=399170 job=115,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:24.670+00:00,346.112,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:25.497+00:00,346.939,2,in,149,share,nonce=2815546 job=115,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:25.497+00:00,346.939,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.201+00:00,347.643,2,in,149,share,nonce=4853277 job=115,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.201+00:00,347.643,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.322+00:00,347.764,2,in,149,share,nonce=5200029 job=115,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.322+00:00,347.764,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.609+00:00,348.051,2,in,149,share,nonce=6018763 job=115,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:26.609+00:00,348.051,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:27.512+00:00,348.954,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:28.214+00:00,349.656,2,in,149,share,nonce=2035690 job=116,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:28.215+00:00,349.657,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.317+00:00,350.759,2,in,149,share,nonce=5245936 job=116,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.317+00:00,350.759,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.340+00:00,350.782,2,in,149,share,nonce=5316250 job=116,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.340+00:00,350.782,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.806+00:00,351.249,2,in,149,share,nonce=6697805 job=116,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:29.806+00:00,351.249,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:30.511+00:00,351.953,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:31.883+00:00,353.325,2,in,149,share,nonce=3876342 job=117,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:31.883+00:00,353.325,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:32.425+00:00,353.867,2,in,149,share,nonce=5438215 job=117,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:32.425+00:00,353.867,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:33.357+00:00,354.799,2,in,149,share,nonce=8143754 job=117,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:33.357+00:00,354.799,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:33.512+00:00,354.954,2,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:33.685+00:00,355.127,2,in,148,share,nonce=465210 job=118,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:33.685+00:00,355.127,2,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,22
+2026-10-26T09:03:36.024+00:00,357.467,3,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.024+00:00,357.467,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.272+00:00,357.715,3,in,142,share,nonce=465210 job=118,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.272+00:00,357.715,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.272+00:00,357.715,3,in,142,share,nonce=465210 job=118,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.272+00:00,357.715,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:36.513+00:00,357.955,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:38.729+00:00,360.171,3,in,149,share,nonce=6028312 job=119,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:38.729+00:00,360.171,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,22
+2026-10-26T09:03:38.747+00:00,360.19,3,in,149,share,nonce=6028312 job=119,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:38.747+00:00,360.19,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:38.747+00:00,360.19,3,out,71,set_diff,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:39.519+00:00,360.961,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:42.520+00:00,363.963,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:45.521+00:00,366.963,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:48.095+00:00,369.537,3,in,149,share,nonce=6621407 job=122,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:48.095+00:00,369.537,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:48.105+00:00,369.548,3,in,149,share,nonce=6621407 job=122,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:48.105+00:00,369.548,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:48.536+00:00,369.978,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:51.547+00:00,372.989,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:52.385+00:00,373.827,3,in,149,share,nonce=2225602 job=124,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:52.385+00:00,373.827,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:52.387+00:00,373.829,3,in,149,share,nonce=2225602 job=124,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:52.387+00:00,373.829,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:54.485+00:00,375.927,3,in,149,share,nonce=7844532 job=124,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:54.485+00:00,375.927,3,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:54.511+00:00,375.953,3,in,149,share,nonce=7844532 job=124,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:54.512+00:00,375.954,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:54.564+00:00,376.006,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:55.562+00:00,377.004,3,in,149,share,nonce=2571683 job=125,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:55.562+00:00,377.004,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:55.562+00:00,377.004,3,in,149,share,nonce=2571683 job=125,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:55.563+00:00,377.005,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:57.575+00:00,379.018,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:58.676+00:00,380.119,3,in,149,share,nonce=2935660 job=126,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:58.676+00:00,380.119,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:58.701+00:00,380.144,3,in,149,share,nonce=2935660 job=126,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:03:58.701+00:00,380.144,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:00.584+00:00,382.027,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.399+00:00,383.841,3,in,149,share,nonce=4843878 job=127,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.399+00:00,383.841,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.455+00:00,383.898,3,in,149,share,nonce=4843878 job=127,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.455+00:00,383.898,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.735+00:00,384.177,3,in,149,share,nonce=5745925 job=127,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.735+00:00,384.177,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.794+00:00,384.237,3,in,149,share,nonce=5745925 job=127,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:02.794+00:00,384.237,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:03.579+00:00,385.021,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:05.840+00:00,387.282,3,in,149,share,nonce=5917836 job=128,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:05.840+00:00,387.282,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:05.853+00:00,387.296,3,in,149,share,nonce=5917836 job=128,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:05.853+00:00,387.296,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:06.594+00:00,388.036,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:09.606+00:00,391.049,3,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:10.956+00:00,392.399,3,in,149,share,nonce=3524880 job=130,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:10.957+00:00,392.4,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:10.978+00:00,392.421,3,in,149,share,nonce=3524880 job=130,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:10.978+00:00,392.421,3,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,23
+2026-10-26T09:04:13.422+00:00,394.864,4,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:13.422+00:00,394.864,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:13.785+00:00,395.227,4,in,142,share,nonce=752773 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:13.786+00:00,395.228,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:13.799+00:00,395.241,4,in,142,share,nonce=752773 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:13.799+00:00,395.241,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:14.899+00:00,396.341,4,in,149,share,nonce=3694160 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:14.899+00:00,396.341,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,22
+2026-10-26T09:04:14.899+00:00,396.341,4,in,149,share,nonce=3694160 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:14.900+00:00,396.342,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:14.900+00:00,396.342,4,out,71,set_diff,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:15.184+00:00,396.627,4,in,148,share,nonce=752773 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:15.186+00:00,396.628,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:15.235+00:00,396.677,4,in,148,share,nonce=752773 job=131,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:15.236+00:00,396.678,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:15.628+00:00,397.07,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:18.636+00:00,400.078,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:21.651+00:00,403.093,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:24.651+00:00,406.093,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:26.596+00:00,408.038,4,in,149,share,nonce=5077240 job=135,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:26.596+00:00,408.038,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:26.623+00:00,408.065,4,in,149,share,nonce=5077240 job=135,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:26.623+00:00,408.065,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:27.648+00:00,409.09,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.202+00:00,410.644,4,in,149,share,nonce=4112769 job=136,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.202+00:00,410.644,4,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.223+00:00,410.665,4,in,149,share,nonce=4112769 job=136,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.223+00:00,410.665,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.839+00:00,411.281,4,in,149,share,nonce=5871382 job=136,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.840+00:00,411.282,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.887+00:00,411.329,4,in,149,share,nonce=5871382 job=136,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:29.887+00:00,411.329,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:30.655+00:00,412.098,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:31.838+00:00,413.28,4,in,149,share,nonce=3127880 job=137,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:31.839+00:00,413.281,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:31.891+00:00,413.333,4,in,149,share,nonce=3127880 job=137,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:31.891+00:00,413.333,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:33.661+00:00,415.103,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:36.672+00:00,418.114,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:36.858+00:00,418.301,4,in,148,share,nonce=494702 job=139,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:36.858+00:00,418.301,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:36.894+00:00,418.337,4,in,148,share,nonce=494702 job=139,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:36.895+00:00,418.338,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:39.689+00:00,421.132,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:42.702+00:00,424.144,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:45.717+00:00,427.16,4,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:45.750+00:00,427.192,4,in,149,share,nonce=8069139 job=141,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:45.750+00:00,427.192,4,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,23
+2026-10-26T09:04:50.000+00:00,431.442,5,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:50.000+00:00,431.442,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:51.721+00:00,433.163,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:54.736+00:00,436.178,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.721+00:00,438.163,5,in,149,share,nonce=3938955 job=145,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.721+00:00,438.163,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.747+00:00,438.189,5,in,149,share,nonce=3938955 job=145,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.748+00:00,438.19,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.764+00:00,438.206,5,in,149,share,nonce=3938955 job=145,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.764+00:00,438.206,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,22
+2026-10-26T09:04:56.919+00:00,438.362,5,in,149,share,nonce=3938955 job=145,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:04:56.919+00:00,438.362,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:04:56.919+00:00,438.362,5,out,71,set_diff,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:04:57.740+00:00,439.182,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:00.747+00:00,442.189,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.160+00:00,442.602,5,in,148,share,nonce=817745 job=147,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.160+00:00,442.602,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.160+00:00,442.602,5,in,148,share,nonce=817745 job=147,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.160+00:00,442.602,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.190+00:00,442.632,5,in,148,share,nonce=817745 job=147,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.190+00:00,442.632,5,in,148,share,nonce=817745 job=147,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.190+00:00,442.632,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:01.190+00:00,442.632,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:03.761+00:00,445.203,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.081+00:00,445.523,5,in,148,share,nonce=716449 job=148,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.081+00:00,445.523,5,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.084+00:00,445.526,5,in,148,share,nonce=716449 job=148,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.085+00:00,445.527,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.107+00:00,445.549,5,in,148,share,nonce=716449 job=148,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.107+00:00,445.549,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.133+00:00,445.575,5,in,148,share,nonce=716449 job=148,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:04.133+00:00,445.575,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:06.775+00:00,448.217,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.172+00:00,450.614,5,in,149,share,nonce=5376808 job=149,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.173+00:00,450.615,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.245+00:00,450.687,5,in,149,share,nonce=5376808 job=149,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.245+00:00,450.687,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.405+00:00,450.848,5,in,149,share,nonce=5376808 job=149,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.406+00:00,450.849,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.441+00:00,450.883,5,in,149,share,nonce=5376808 job=149,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.441+00:00,450.883,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:09.776+00:00,451.218,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:12.790+00:00,454.232,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:15.790+00:00,457.232,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.001+00:00,459.443,5,in,149,share,nonce=5074015 job=152,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.001+00:00,459.443,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.135+00:00,459.577,5,in,149,share,nonce=5074015 job=152,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.135+00:00,459.577,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.183+00:00,459.626,5,in,149,share,nonce=5074015 job=152,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.183+00:00,459.626,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.289+00:00,459.731,5,in,149,share,nonce=5074015 job=152,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.290+00:00,459.732,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.626+00:00,460.068,5,in,149,share,nonce=6553650 job=152,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.626+00:00,460.068,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:18.782+00:00,460.224,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:21.790+00:00,463.232,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.304+00:00,464.746,5,in,149,share,nonce=3382437 job=154,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.304+00:00,464.746,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.328+00:00,464.77,5,in,149,share,nonce=3382437 job=154,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.328+00:00,464.77,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.387+00:00,464.829,5,in,149,share,nonce=3382437 job=154,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.387+00:00,464.829,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.540+00:00,464.982,5,in,149,share,nonce=3382437 job=154,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:23.540+00:00,464.982,5,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:24.798+00:00,466.24,5,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,24
+2026-10-26T09:05:27.826+00:00,469.268,6,in,148,auth,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:27.826+00:00,469.268,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:29.591+00:00,471.034,6,in,149,share,nonce=4794480 job=156,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:29.592+00:00,471.035,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:30.434+00:00,471.876,6,in,149,share,nonce=7211440 job=156,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:30.434+00:00,471.876,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:30.811+00:00,472.253,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:31.271+00:00,472.713,6,in,149,share,nonce=1186452 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:31.271+00:00,472.714,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:31.333+00:00,472.776,6,in,149,share,nonce=1373236 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:31.333+00:00,472.776,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.365+00:00,474.808,6,in,149,share,nonce=1186452 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.365+00:00,474.808,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.415+00:00,474.858,6,in,149,share,nonce=1186452 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.415+00:00,474.858,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.444+00:00,474.886,6,in,149,share,nonce=1373236 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.444+00:00,474.886,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.470+00:00,474.912,6,in,149,share,nonce=1186452 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.470+00:00,474.912,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.507+00:00,474.949,6,in,149,share,nonce=1373236 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.507+00:00,474.949,6,out,43,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.559+00:00,475.001,6,in,149,share,nonce=1373236 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.559+00:00,475.001,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.575+00:00,475.017,6,in,149,share,nonce=7573048 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.576+00:00,475.018,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.724+00:00,475.166,6,in,149,share,nonce=7957465 job=157,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.724+00:00,475.166,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:33.826+00:00,475.268,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:35.927+00:00,477.369,6,in,149,share,nonce=5148916 job=158,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:35.928+00:00,477.37,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:35.937+00:00,477.379,6,in,149,share,nonce=5148916 job=158,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:35.939+00:00,477.381,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:36.047+00:00,477.489,6,in,149,share,nonce=5148916 job=158,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:36.047+00:00,477.489,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,22
+2026-10-26T09:05:36.059+00:00,477.501,6,in,149,share,nonce=5148916 job=158,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:36.059+00:00,477.501,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:36.059+00:00,477.501,6,out,71,set_diff,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:36.851+00:00,478.293,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:39.859+00:00,481.301,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:42.874+00:00,484.317,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:45.881+00:00,487.324,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.399+00:00,487.842,6,in,149,share,nonce=1132327 job=162,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.399+00:00,487.842,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.418+00:00,487.861,6,in,149,share,nonce=1132327 job=162,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.418+00:00,487.861,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.423+00:00,487.866,6,in,149,share,nonce=1132327 job=162,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.424+00:00,487.867,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.447+00:00,487.89,6,in,149,share,nonce=1132327 job=162,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:46.447+00:00,487.89,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:48.890+00:00,490.332,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.784+00:00,492.227,6,in,149,share,nonce=4424675 job=163,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.784+00:00,492.227,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.832+00:00,492.274,6,in,149,share,nonce=4424675 job=163,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.832+00:00,492.274,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.959+00:00,492.401,6,in,149,share,nonce=4424675 job=163,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.959+00:00,492.401,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.972+00:00,492.415,6,in,149,share,nonce=4424675 job=163,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:50.973+00:00,492.416,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:51.901+00:00,493.344,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:53.826+00:00,495.268,6,in,149,share,nonce=4470036 job=164,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:53.826+00:00,495.268,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.003+00:00,495.446,6,in,149,share,nonce=4470036 job=164,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.004+00:00,495.447,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.007+00:00,495.45,6,in,149,share,nonce=4470036 job=164,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.007+00:00,495.45,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.058+00:00,495.5,6,in,149,share,nonce=4470036 job=164,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.059+00:00,495.501,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:54.903+00:00,496.345,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.144+00:00,497.586,6,in,149,share,nonce=2882639 job=165,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.144+00:00,497.586,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.250+00:00,497.693,6,in,149,share,nonce=2882639 job=165,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.250+00:00,497.693,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.256+00:00,497.699,6,in,149,share,nonce=2882639 job=165,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.256+00:00,497.699,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.305+00:00,497.747,6,in,149,share,nonce=2882639 job=165,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:56.305+00:00,497.747,6,out,44,ack,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:05:57.900+00:00,499.342,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24
+2026-10-26T09:06:00.914+00:00,502.357,6,out,125,job,,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,24

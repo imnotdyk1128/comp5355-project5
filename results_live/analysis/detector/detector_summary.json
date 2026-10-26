@@ -1,0 +1,132 @@
+{
+  "n_windows": 210,
+  "socket_threshold": 1.0,
+  "cpu_only": {
+    "TP": 60,
+    "FP": 0,
+    "FN": 0,
+    "TN": 150,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "false_alarm_rate": 0.0
+  },
+  "combined": {
+    "TP": 30,
+    "FP": 0,
+    "FN": 30,
+    "TN": 150,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666,
+    "false_alarm_rate": 0.0
+  },
+  "tuned_on_train": {
+    "cpu_thr_cores": 0.2,
+    "socket_threshold": 1
+  },
+  "train_windows": 105,
+  "test_windows": 105,
+  "best_sweep_train": {
+    "TP": 15,
+    "FP": 0,
+    "FN": 15,
+    "TN": 75,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666,
+    "false_alarm_rate": 0.0,
+    "cpu_thr_cores": 0.2,
+    "socket_offset": 0,
+    "socket_thr": 1
+  },
+  "best_held_out": {
+    "TP": 15,
+    "FP": 0,
+    "FN": 15,
+    "TN": 75,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666,
+    "false_alarm_rate": 0.0
+  },
+  "per_group": {
+    "live:example.com": {
+      "windows": 30,
+      "mean_cpu_cores": 0.07,
+      "mean_estab": 15.5,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 83.22,
+      "mean_up_cv": 2.01,
+      "detected_cpu_only_pct": 0.0,
+      "detected_combo_pct": 0.0
+    },
+    "live:httpbin.org/html": {
+      "windows": 30,
+      "mean_cpu_cores": 0.05,
+      "mean_estab": 8.1,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 31.37,
+      "mean_up_cv": 1.75,
+      "detected_cpu_only_pct": 0.0,
+      "detected_combo_pct": 0.0
+    },
+    "live:lab:8080/busy": {
+      "windows": 30,
+      "mean_cpu_cores": 2.16,
+      "mean_estab": 4.0,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 1109.0,
+      "mean_up_cv": 2.4,
+      "detected_cpu_only_pct": 100.0,
+      "detected_combo_pct": 0.0
+    },
+    "live:lab:8080/clean": {
+      "windows": 30,
+      "mean_cpu_cores": 0.08,
+      "mean_estab": 3.0,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 47.61,
+      "mean_up_cv": 1.9,
+      "detected_cpu_only_pct": 0.0,
+      "detected_combo_pct": 0.0
+    },
+    "live:lab:8080/mining": {
+      "windows": 30,
+      "mean_cpu_cores": 2.17,
+      "mean_estab": 5.5,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 1.0,
+      "mean_up_kbps": 11.71,
+      "mean_up_cv": 1.9,
+      "detected_cpu_only_pct": 100.0,
+      "detected_combo_pct": 100.0
+    },
+    "live:www.python.org": {
+      "windows": 30,
+      "mean_cpu_cores": 0.17,
+      "mean_estab": 9.6,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 40.98,
+      "mean_up_cv": 2.07,
+      "detected_cpu_only_pct": 0.0,
+      "detected_combo_pct": 0.0
+    },
+    "live:www.wikipedia.org": {
+      "windows": 30,
+      "mean_cpu_cores": 0.06,
+      "mean_estab": 17.5,
+      "mean_persistent": 0.0,
+      "mean_page_ws_open": 0.0,
+      "mean_up_kbps": 73.1,
+      "mean_up_cv": 2.1,
+      "detected_cpu_only_pct": 0.0,
+      "detected_combo_pct": 0.0
+    }
+  }
+}

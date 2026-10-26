@@ -1,0 +1,13 @@
+ts,elapsed_s,conn_id,event,worker,payload_bytes_total
+2026-10-26T09:02:21.794+00:00,283.236,1,open,,0
+2026-10-26T09:02:56.808+00:00,318.251,1,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1,6247
+2026-10-26T09:02:58.986+00:00,320.428,2,open,,0
+2026-10-26T09:03:33.999+00:00,355.441,2,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2,6569
+2026-10-26T09:03:36.022+00:00,357.465,3,open,,0
+2026-10-26T09:04:11.037+00:00,392.48,3,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1,6067
+2026-10-26T09:04:13.420+00:00,394.862,4,open,,0
+2026-10-26T09:04:48.433+00:00,429.875,4,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2,4973
+2026-10-26T09:04:49.995+00:00,431.437,5,open,,0
+2026-10-26T09:05:25.006+00:00,466.448,5,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1,6652
+2026-10-26T09:05:27.824+00:00,469.266,6,open,,0
+2026-10-26T09:06:02.837+00:00,504.28,6,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2,7886

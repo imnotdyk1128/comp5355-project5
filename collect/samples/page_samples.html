@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Static scanner validation samples</title>
+</head>
+<body>
+<!-- Not served by the lab; scan directly with:
+       python collect/scan_static.py --dir collect/samples
+     Expect: the Coinhive-shaped loader and the packer sample to be flagged as
+     miners (platform attribution + obfuscation metrics), and the analytics
+     script to stay clean even though it uses Worker, WebAssembly and WebSocket.
+     The three scripts are hand-written reconstructions of the shape of real
+     artifacts, not recovered code. -->
+<h1>Scanner fixture page</h1>
+<script src="sample_coinhive_style_loader.js"></script>
+<script src="sample_obfuscated_packer.js"></script>
+<script src="sample_analytics_hard_negative.js"></script>
+</body>
+</html>

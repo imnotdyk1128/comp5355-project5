@@ -1,0 +1,1186 @@
+{
+  "pool": {
+    "per_connection": {
+      "1": {
+        "conn_id": "1",
+        "trial_tag": "labvisitor",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.labvisitor",
+        "first_s": 227.909,
+        "last_s": 252.704,
+        "lifetime_s": 24.8,
+        "frames": 48,
+        "frame_types": {
+          "auth": 1,
+          "job": 10,
+          "share": 18,
+          "ack": 18,
+          "set_diff": 1
+        },
+        "bytes_up": 2811.0,
+        "bytes_down": 2094.0,
+        "mean_frame_up": 147.9,
+        "mean_frame_down": 72.2,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.907,
+        "down_kbps": 0.676,
+        "shares": 18,
+        "share_interval_mean_s": 1.19,
+        "share_interval_sd_s": 1.92,
+        "job_interval_mean_s": 2.76,
+        "difficulty_trace": [
+          [
+            227.909,
+            22
+          ],
+          [
+            227.909,
+            22
+          ],
+          [
+            228.62,
+            22
+          ],
+          [
+            229.097,
+            22
+          ],
+          [
+            229.097,
+            22
+          ],
+          [
+            229.102,
+            22
+          ],
+          [
+            229.102,
+            22
+          ],
+          [
+            229.307,
+            22
+          ],
+          [
+            229.307,
+            22
+          ],
+          [
+            229.31,
+            23
+          ],
+          [
+            229.31,
+            23
+          ],
+          [
+            229.31,
+            23
+          ],
+          [
+            229.946,
+            23
+          ],
+          [
+            229.947,
+            23
+          ],
+          [
+            229.947,
+            23
+          ],
+          [
+            229.947,
+            23
+          ],
+          [
+            231.632,
+            23
+          ],
+          [
+            233.225,
+            23
+          ],
+          [
+            233.225,
+            23
+          ],
+          [
+            233.261,
+            23
+          ],
+          [
+            233.261,
+            23
+          ],
+          [
+            234.65,
+            23
+          ],
+          [
+            237.659,
+            23
+          ],
+          [
+            239.147,
+            23
+          ],
+          [
+            239.148,
+            23
+          ],
+          [
+            239.207,
+            23
+          ],
+          [
+            239.207,
+            23
+          ],
+          [
+            240.558,
+            23
+          ],
+          [
+            240.558,
+            23
+          ],
+          [
+            240.609,
+            23
+          ],
+          [
+            240.609,
+            23
+          ],
+          [
+            240.661,
+            23
+          ],
+          [
+            240.91,
+            23
+          ],
+          [
+            240.91,
+            23
+          ],
+          [
+            240.931,
+            23
+          ],
+          [
+            240.931,
+            23
+          ],
+          [
+            243.665,
+            23
+          ],
+          [
+            246.528,
+            23
+          ],
+          [
+            246.528,
+            23
+          ],
+          [
+            246.545,
+            23
+          ],
+          [
+            246.545,
+            23
+          ],
+          [
+            246.685,
+            23
+          ],
+          [
+            249.329,
+            23
+          ],
+          [
+            249.329,
+            23
+          ],
+          [
+            249.363,
+            23
+          ],
+          [
+            249.363,
+            23
+          ],
+          [
+            249.702,
+            23
+          ],
+          [
+            252.704,
+            23
+          ]
+        ],
+        "total": 4905.0
+      },
+      "2": {
+        "conn_id": "2",
+        "trial_tag": "labvisitor",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.labvisitor",
+        "first_s": 254.388,
+        "last_s": 276.781,
+        "lifetime_s": 22.39,
+        "frames": 29,
+        "frame_types": {
+          "auth": 1,
+          "job": 9,
+          "share": 9,
+          "ack": 9,
+          "set_diff": 1
+        },
+        "bytes_up": 1481.0,
+        "bytes_down": 1574.0,
+        "mean_frame_up": 148.1,
+        "mean_frame_down": 82.8,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.529,
+        "down_kbps": 0.562,
+        "shares": 9,
+        "share_interval_mean_s": 1.36,
+        "share_interval_sd_s": 1.82,
+        "job_interval_mean_s": 2.8,
+        "difficulty_trace": [
+          [
+            254.388,
+            22
+          ],
+          [
+            254.389,
+            22
+          ],
+          [
+            255.717,
+            22
+          ],
+          [
+            256.793,
+            22
+          ],
+          [
+            256.793,
+            22
+          ],
+          [
+            256.949,
+            22
+          ],
+          [
+            256.949,
+            22
+          ],
+          [
+            258.66,
+            22
+          ],
+          [
+            258.66,
+            22
+          ],
+          [
+            258.727,
+            22
+          ],
+          [
+            259.701,
+            23
+          ],
+          [
+            259.702,
+            23
+          ],
+          [
+            259.702,
+            23
+          ],
+          [
+            261.133,
+            23
+          ],
+          [
+            261.133,
+            23
+          ],
+          [
+            261.31,
+            23
+          ],
+          [
+            261.31,
+            23
+          ],
+          [
+            261.524,
+            23
+          ],
+          [
+            261.524,
+            23
+          ],
+          [
+            261.737,
+            23
+          ],
+          [
+            261.752,
+            23
+          ],
+          [
+            261.752,
+            23
+          ],
+          [
+            264.744,
+            23
+          ],
+          [
+            267.676,
+            23
+          ],
+          [
+            267.676,
+            23
+          ],
+          [
+            267.762,
+            23
+          ],
+          [
+            270.763,
+            23
+          ],
+          [
+            273.773,
+            23
+          ],
+          [
+            276.781,
+            23
+          ]
+        ],
+        "total": 3055.0
+      }
+    },
+    "aggregate": {
+      "connections": 2,
+      "open_events": 2,
+      "close_events": 2,
+      "total_bytes": 7960.0,
+      "mean_lifetime_s": 23.59,
+      "mean_frames_per_conn": 38.5,
+      "mean_up_kbps": 0.718,
+      "message_mix": {
+        "auth": 2,
+        "job": 19,
+        "share": 27,
+        "ack": 27,
+        "set_diff": 2
+      },
+      "bytes_up_total": 4292.0,
+      "bytes_down_total": 3668.0
+    },
+    "per_trial": {
+      "labvisitor": {
+        "trial_tag": "labvisitor",
+        "sockets": 2,
+        "window_s": 48.9,
+        "frames": 77,
+        "bytes_up": 4292.0,
+        "bytes_down": 3668.0,
+        "up_kbps": 0.703,
+        "mean_frame_up": 148.0,
+        "shares": 27,
+        "shares_per_s": 0.552,
+        "mean_lifetime_s": 23.59,
+        "mean_share_interval_s": 1.27
+      }
+    }
+  },
+  "http_page_traffic": {
+    "requests": 50,
+    "bytes_total": 85924.0,
+    "unique_paths": 11,
+    "top_paths": [
+      [
+        "/js/sha256.js",
+        8
+      ],
+      [
+        "/css/site.css",
+        6
+      ],
+      [
+        "/js/page_common.js",
+        6
+      ],
+      [
+        "/img/banner1.svg",
+        6
+      ],
+      [
+        "/img/banner0.svg",
+        6
+      ],
+      [
+        "/js/miner_loader.js",
+        4
+      ],
+      [
+        "/js/miner_worker.js",
+        4
+      ],
+      [
+        "/js/busy_worker.js",
+        4
+      ]
+    ],
+    "mean_response_bytes": 1718.5,
+    "burst_window_s": 129.61,
+    "requests_per_s": 0.39,
+    "inter_request_mean_s": 2.645,
+    "note": "HTTP page traffic is a short burst of KB-scale responses"
+  },
+  "har_per_trial": {
+    "live_127_0_0_1_8080_busy_t0_r1": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 54.7,
+      "unfinished_requests": 0
+    },
+    "live_127_0_0_1_8080_busy_t0_r2": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 53.6,
+      "unfinished_requests": 0
+    },
+    "live_127_0_0_1_8080_clean_t0_r1": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 17.6,
+      "unfinished_requests": 0
+    },
+    "live_127_0_0_1_8080_clean_t0_r2": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 16.2,
+      "unfinished_requests": 0
+    },
+    "live_127_0_0_1_8080_mining_t0_r1": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 24851.0,
+      "unfinished_requests": 0
+    },
+    "live_127_0_0_1_8080_mining_t0_r2": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 22447.1,
+      "unfinished_requests": 0
+    },
+    "live_example_com_t0_r1": {
+      "requests": 2,
+      "bytes": 2021,
+      "hosts": {
+        "example.com": 2
+      },
+      "mime": {
+        "text/html": 1,
+        "text/javascript": 1
+      },
+      "mean_response_kbytes": 1.0,
+      "max_response_kbytes": 1.5,
+      "load_time_ms": 1752.0,
+      "unfinished_requests": 0
+    },
+    "live_example_com_t0_r2": {
+      "requests": 2,
+      "bytes": 2021,
+      "hosts": {
+        "example.com": 2
+      },
+      "mime": {
+        "text/html": 1,
+        "text/javascript": 1
+      },
+      "mean_response_kbytes": 1.0,
+      "max_response_kbytes": 1.5,
+      "load_time_ms": 2758.4,
+      "unfinished_requests": 0
+    },
+    "live_httpbin_org_html_t0_r1": {
+      "requests": 1,
+      "bytes": 3890,
+      "hosts": {
+        "httpbin.org": 1
+      },
+      "mime": {
+        "text/html": 1
+      },
+      "mean_response_kbytes": 3.8,
+      "max_response_kbytes": 3.8,
+      "load_time_ms": 4569.2,
+      "unfinished_requests": 0
+    },
+    "live_httpbin_org_html_t0_r2": {
+      "requests": 1,
+      "bytes": 3890,
+      "hosts": {
+        "httpbin.org": 1
+      },
+      "mime": {
+        "text/html": 1
+      },
+      "mean_response_kbytes": 3.8,
+      "max_response_kbytes": 3.8,
+      "load_time_ms": 2131.1,
+      "unfinished_requests": 0
+    },
+    "live_www_python_org_t0_r1": {
+      "requests": 29,
+      "bytes": 479037,
+      "hosts": {
+        "www.python.org": 23,
+        "ajax.googleapis.com": 3,
+        "analytics.python.org": 1,
+        "console.python.org": 1,
+        "2p66nmmycsj3.statuspage.io": 1
+      },
+      "mime": {
+        "text/html": 9,
+        "application/javascript": 5,
+        "text/css": 4,
+        "image/png": 2,
+        "text/javascript": 2,
+        "font/woff": 5,
+        "application/json": 2
+      },
+      "mean_response_kbytes": 16.1,
+      "max_response_kbytes": 122.7,
+      "load_time_ms": 27222.4,
+      "unfinished_requests": 0
+    },
+    "live_www_python_org_t0_r2": {
+      "requests": 29,
+      "bytes": 478481,
+      "hosts": {
+        "www.python.org": 23,
+        "ajax.googleapis.com": 3,
+        "analytics.python.org": 1,
+        "console.python.org": 1,
+        "2p66nmmycsj3.statuspage.io": 1
+      },
+      "mime": {
+        "text/html": 9,
+        "application/javascript": 5,
+        "text/css": 4,
+        "image/png": 2,
+        "text/javascript": 2,
+        "font/woff": 5,
+        "application/json": 2
+      },
+      "mean_response_kbytes": 16.1,
+      "max_response_kbytes": 122.7,
+      "load_time_ms": 30597.8,
+      "unfinished_requests": 0
+    },
+    "live_www_wikipedia_org_t0_r1": {
+      "requests": 8,
+      "bytes": 82048,
+      "hosts": {
+        "www.wikipedia.org": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "image/png": 1,
+        "image/svg+xml": 1,
+        "text/javascript": 2,
+        "application/json": 2,
+        "image/vnd.microsoft.icon": 1
+      },
+      "mean_response_kbytes": 10.0,
+      "max_response_kbytes": 29.5,
+      "load_time_ms": 3406.1,
+      "unfinished_requests": 0
+    },
+    "live_www_wikipedia_org_t0_r2": {
+      "requests": 8,
+      "bytes": 82047,
+      "hosts": {
+        "www.wikipedia.org": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "image/png": 1,
+        "image/svg+xml": 1,
+        "text/javascript": 2,
+        "application/json": 2,
+        "image/vnd.microsoft.icon": 1
+      },
+      "mean_response_kbytes": 10.0,
+      "max_response_kbytes": 29.5,
+      "load_time_ms": 3814.7,
+      "unfinished_requests": 0
+    }
+  },
+  "page_websockets": [
+    {
+      "cond": "live",
+      "threads": "0",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.068,
+      "last_seen": 24.879,
+      "closed": null,
+      "frames_up": 19,
+      "frames_down": 29,
+      "bytes_up": 2887.0,
+      "bytes_down": 2094.0,
+      "lifetime_s": 24.8,
+      "mean_frame_gap_s": 0.92,
+      "mean_frame_up": 151.9,
+      "open_at_end": true
+    },
+    {
+      "cond": "live",
+      "threads": "0",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.061,
+      "last_seen": 22.472,
+      "closed": null,
+      "frames_up": 10,
+      "frames_down": 19,
+      "bytes_up": 1521.0,
+      "bytes_down": 1574.0,
+      "lifetime_s": 22.4,
+      "mean_frame_gap_s": 0.93,
+      "mean_frame_up": 152.1,
+      "open_at_end": true
+    }
+  ],
+  "client_sockets": [
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.163,
+      "last": 24.363,
+      "ticks": 51,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 3,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.163,
+      "last": 24.363,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.182,
+      "last": 24.382,
+      "ticks": 51,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 3,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.182,
+      "last": 24.382,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.169,
+      "last": 24.368,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.169,
+      "last": 24.368,
+      "ticks": 34,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 2,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.183,
+      "last": 24.384,
+      "ticks": 34,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 2,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.183,
+      "last": 24.384,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.181,
+      "last": 24.381,
+      "ticks": 51,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 3,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.181,
+      "last": 24.381,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.181,
+      "last": 24.381,
+      "ticks": 34,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 2,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.165,
+      "last": 24.366,
+      "ticks": 51,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 3,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.165,
+      "last": 24.366,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.165,
+      "last": 24.366,
+      "ticks": 17,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 1,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 6.304,
+      "last": 25.504,
+      "ticks": 255,
+      "pids": [
+        "21668",
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 15,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 6.756,
+      "last": 25.956,
+      "ticks": 272,
+      "pids": [
+        "21668",
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 16,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 7.829,
+      "last": 27.029,
+      "ticks": 156,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 11,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 6.438,
+      "last": 25.639,
+      "ticks": 119,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 7,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 8.441,
+      "last": 27.641,
+      "ticks": 181,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 11,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 13.151,
+      "last": 32.352,
+      "ticks": 144,
+      "pids": [
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 9,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 6.453,
+      "last": 25.654,
+      "ticks": 321,
+      "pids": [
+        "21668",
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 19,
+      "cond": "live",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 6.588,
+      "last": 25.788,
+      "ticks": 267,
+      "pids": [
+        "21668",
+        "22556"
+      ],
+      "lifetime_s": 19.2,
+      "local_ports": 19,
+      "cond": "live",
+      "threads": "0",
+      "trial": "2"
+    }
+  ],
+  "client_side_socket_metrics": [
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 15.0,
+      "estab_tcp_mean": 15.0,
+      "up_kbps_mean": 49.89,
+      "cpu_mean": 1.3,
+      "har_entries": 2.0,
+      "har_bytes": 2021.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 16.0,
+      "estab_tcp_mean": 16.0,
+      "up_kbps_mean": 130.14,
+      "cpu_mean": 0.43,
+      "har_entries": 2.0,
+      "har_bytes": 2021.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 19.0,
+      "estab_tcp_mean": 19.0,
+      "up_kbps_mean": 150.33,
+      "cpu_mean": 1.29,
+      "har_entries": 8.0,
+      "har_bytes": 82048.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 19.0,
+      "estab_tcp_mean": 15.27,
+      "up_kbps_mean": 20.67,
+      "cpu_mean": 0.26,
+      "har_entries": 8.0,
+      "har_bytes": 82047.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 11.0,
+      "estab_tcp_mean": 8.93,
+      "up_kbps_mean": 14.99,
+      "cpu_mean": 0.6,
+      "har_entries": 1.0,
+      "har_bytes": 3890.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 7.0,
+      "estab_tcp_mean": 7.0,
+      "up_kbps_mean": 71.51,
+      "cpu_mean": 0.17,
+      "har_entries": 1.0,
+      "har_bytes": 3890.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 11.0,
+      "estab_tcp_mean": 10.6,
+      "up_kbps_mean": 30.43,
+      "cpu_mean": 3.15,
+      "har_entries": 29.0,
+      "har_bytes": 479037.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 9.0,
+      "estab_tcp_mean": 8.4,
+      "up_kbps_mean": 20.21,
+      "cpu_mean": 1.9,
+      "har_entries": 29.0,
+      "har_bytes": 478481.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 6.0,
+      "estab_tcp_mean": 6.0,
+      "up_kbps_mean": 7.1,
+      "cpu_mean": 200.47,
+      "har_entries": 11.0,
+      "har_bytes": 15887.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 17.36,
+      "cpu_mean": 199.77,
+      "har_entries": 11.0,
+      "har_bytes": 15887.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 4.0,
+      "estab_tcp_mean": 4.0,
+      "up_kbps_mean": 2017.87,
+      "cpu_mean": 198.66,
+      "har_entries": 10.0,
+      "har_bytes": 15883.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 4.0,
+      "estab_tcp_mean": 4.0,
+      "up_kbps_mean": 120.63,
+      "cpu_mean": 200.2,
+      "har_entries": 10.0,
+      "har_bytes": 15883.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 3.0,
+      "estab_tcp_mean": 3.0,
+      "up_kbps_mean": 67.05,
+      "cpu_mean": 0.52,
+      "har_entries": 5.0,
+      "har_bytes": 3448.0
+    },
+    {
+      "group": "live-w0",
+      "estab_tcp_p95": 3.0,
+      "estab_tcp_mean": 3.0,
+      "up_kbps_mean": 17.85,
+      "cpu_mean": 0.87,
+      "har_entries": 5.0,
+      "har_bytes": 3448.0
+    }
+  ],
+  "generated_from": {
+    "pool_frames": "E:\\Master assignment\\semester1\\cyber and Internet security\\myproject\\results_live\\lab\\pool_frames.csv",
+    "http_access": "E:\\Master assignment\\semester1\\cyber and Internet security\\myproject\\results_live\\lab\\http_access.csv"
+  }
+}

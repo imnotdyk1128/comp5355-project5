@@ -1,0 +1,8 @@
+page_id,requested_url,final_url,http_status,html_bytes,content_type,fetched_at,n_scripts,js_bytes,js_fetched,js_failed,error,html_file,script_index
+327c3fda87ce2868,https://example.com,https://example.com/,200,577,text/html; charset=utf-8,2026-10-26T08:31:07+00:00,1,1963,1,0,,327c3fda87ce2868\document.html,327c3fda87ce2868\scripts.json
+ab2a63b23fa4ac9d,https://www.wikipedia.org,https://www.wikipedia.org,,0,,2026-10-26T08:31:23+00:00,0,0,0,0,"ConnectTimeout: HTTPSConnectionPool(host='www.wikipedia.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C1FC2F8E3",,
+07f8c2be43d94559,https://httpbin.org/html,https://httpbin.org/html,200,3741,text/html; charset=utf-8,2026-10-26T08:31:25+00:00,0,0,0,0,,07f8c2be43d94559\document.html,07f8c2be43d94559\scripts.json
+4863eab2e04d2ff1,https://www.python.org,https://www.python.org/,200,52808,text/html; charset=utf-8,2026-10-26T08:31:25+00:00,9,418647,6,0,,4863eab2e04d2ff1\document.html,4863eab2e04d2ff1\scripts.json
+0dfd2489f0d8053a,http://127.0.0.1:8080/mining,http://127.0.0.1:8080/mining,200,577,text/html; charset=utf-8,2026-10-26T08:31:30+00:00,2,6787,2,0,,0dfd2489f0d8053a\document.html,0dfd2489f0d8053a\scripts.json
+040f1ef6886648d7,http://127.0.0.1:8080/busy,http://127.0.0.1:8080/busy,200,573,text/html; charset=utf-8,2026-10-26T08:31:33+00:00,2,6787,2,0,,040f1ef6886648d7\document.html,040f1ef6886648d7\scripts.json
+4be2bed0d7c7a58d,http://127.0.0.1:8080/clean,http://127.0.0.1:8080/clean,200,478,text/html; charset=utf-8,2026-10-26T08:31:33+00:00,1,1823,1,0,,4be2bed0d7c7a58d\document.html,4be2bed0d7c7a58d\scripts.json

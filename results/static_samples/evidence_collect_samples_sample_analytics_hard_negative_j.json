@@ -1,0 +1,66 @@
+{
+  "url": "collect\\samples\\sample_analytics_hard_negative.js",
+  "score": 1.0,
+  "label": "clean",
+  "reasons": [
+    "dedicated worker instantiates WebAssembly"
+  ],
+  "endpoints": [
+    "wss://realtime.example.com/live"
+  ],
+  "wallets": {},
+  "files": [
+    {
+      "file": "sample_analytics_hard_negative.js",
+      "features": {
+        "bytes": 1634,
+        "lines": 45,
+        "avg_line_len": 36.3,
+        "longest_line": 87,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.871,
+        "long_string_literals": 0,
+        "long_identifiers": 0,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 1, \"object_url_blob\": 0, \"webassembly\": 1, \"websocket\": 1, \"ws_urls\": 1, \"setinterval\": 1}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 1,
+        "c_object_url_blob": 0,
+        "c_webassembly": 1,
+        "c_websocket": 1,
+        "c_ws_urls": 1,
+        "c_setinterval": 1
+      },
+      "hits": [
+        {
+          "kind": "weak",
+          "indicator": "wss://",
+          "file": "sample_analytics_hard_negative.js",
+          "occurrences": 1,
+          "context": " socket = socket || new WebSocket(\"wss://realtime.example.com/live\"); soc",
+          "platform": "generic"
+        },
+        {
+          "kind": "weak",
+          "indicator": "webassembly.instantiate",
+          "file": "sample_analytics_hard_negative.js",
+          "occurrences": 1,
+          "context": ") .then(function (buf) { return WebAssembly.instantiate(buf, {}); }) .then(function (m)",
+          "platform": "generic"
+        }
+      ],
+      "iocs": {
+        "endpoints": [
+          "wss://realtime.example.com/live"
+        ],
+        "wallets": {}
+      }
+    }
+  ]
+}

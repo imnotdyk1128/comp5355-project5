@@ -1,0 +1,74 @@
+[
+  {
+    "src": "https://analytics.python.org/js/script.file-downloads.outbound-links.js",
+    "url": "https://analytics.python.org/js/script.file-downloads.outbound-links.js",
+    "same_host": false,
+    "skipped": true
+  },
+  {
+    "src": "/static/js/libs/modernizr.js",
+    "url": "https://www.python.org/static/js/libs/modernizr.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 11753,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\2124d915cfb97abe.js"
+  },
+  {
+    "src": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+    "same_host": false,
+    "skipped": true
+  },
+  {
+    "src": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
+    "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js",
+    "same_host": false,
+    "skipped": true
+  },
+  {
+    "src": "/static/js/libs/masonry.pkgd.min.js",
+    "url": "https://www.python.org/static/js/libs/masonry.pkgd.min.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 26179,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\1c8835771e939749.js"
+  },
+  {
+    "src": "/static/js/libs/html-includes.js",
+    "url": "https://www.python.org/static/js/libs/html-includes.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 178,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\7593431951a2c35a.js"
+  },
+  {
+    "src": "/static/js/main-min.b1e587ad1920.js",
+    "url": "https://www.python.org/static/js/main-min.b1e587ad1920.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 33435,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\cb313502c68b4be1.js"
+  },
+  {
+    "src": "/static/js/libs/jquery-1.8.2.min.js",
+    "url": "https://www.python.org/static/js/libs/jquery-1.8.2.min.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 93434,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\05341a07239bc252.js"
+  },
+  {
+    "src": "/static/js/libs/jquery-ui-1.12.1.min.js",
+    "url": "https://www.python.org/static/js/libs/jquery-ui-1.12.1.min.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 253668,
+    "error": "",
+    "file": "4863eab2e04d2ff1\\scripts\\02ece09829c2e8cd.js"
+  }
+]

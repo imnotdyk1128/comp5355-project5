@@ -1,0 +1,149 @@
+{
+  "url": "..\\lab\\web\\pages\\busy.html",
+  "score": 7.75,
+  "label": "miner:Coin-Worker / Cookie:coinhive",
+  "reasons": [
+    "2 generic mining token(s) matched",
+    "platform Coin-Worker / Cookie:coinhive score 3.2"
+  ],
+  "endpoints": [
+    "ws://127.0.0.1:8777/stratum"
+  ],
+  "wallets": {},
+  "files": [
+    {
+      "file": "busy.html",
+      "features": {
+        "bytes": 573,
+        "lines": 16,
+        "avg_line_len": 35.8,
+        "longest_line": 86,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.919,
+        "long_string_literals": 0,
+        "long_identifiers": 0,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 0, \"object_url_blob\": 0, \"webassembly\": 0, \"websocket\": 0, \"ws_urls\": 0, \"setinterval\": 0}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 0,
+        "c_object_url_blob": 0,
+        "c_webassembly": 0,
+        "c_websocket": 0,
+        "c_ws_urls": 0,
+        "c_setinterval": 0
+      },
+      "hits": [],
+      "iocs": {
+        "endpoints": [],
+        "wallets": {}
+      }
+    },
+    {
+      "file": "page_common.js",
+      "features": {
+        "bytes": 1823,
+        "lines": 42,
+        "avg_line_len": 43.4,
+        "longest_line": 209,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.946,
+        "long_string_literals": 0,
+        "long_identifiers": 0,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 0, \"object_url_blob\": 0, \"webassembly\": 0, \"websocket\": 0, \"ws_urls\": 0, \"setinterval\": 2}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 0,
+        "c_object_url_blob": 0,
+        "c_webassembly": 0,
+        "c_websocket": 0,
+        "c_ws_urls": 0,
+        "c_setinterval": 2
+      },
+      "hits": [],
+      "iocs": {
+        "endpoints": [],
+        "wallets": {}
+      }
+    },
+    {
+      "file": "miner_loader.js",
+      "features": {
+        "bytes": 2595,
+        "lines": 76,
+        "avg_line_len": 34.1,
+        "longest_line": 115,
+        "minified": false,
+        "hex_escapes": 0,
+        "unicode_escapes": 0,
+        "escape_density": 0.0,
+        "entropy": 4.856,
+        "long_string_literals": 0,
+        "long_identifiers": 2,
+        "counts_json": "{\"eval\": 0, \"function_ctor\": 0, \"atob\": 0, \"from_char_code\": 0, \"document_write\": 0, \"worker\": 1, \"object_url_blob\": 0, \"webassembly\": 0, \"websocket\": 0, \"ws_urls\": 1, \"setinterval\": 0}",
+        "c_eval": 0,
+        "c_function_ctor": 0,
+        "c_atob": 0,
+        "c_from_char_code": 0,
+        "c_document_write": 0,
+        "c_worker": 1,
+        "c_object_url_blob": 0,
+        "c_webassembly": 0,
+        "c_websocket": 0,
+        "c_ws_urls": 1,
+        "c_setinterval": 0
+      },
+      "hits": [
+        {
+          "kind": "api",
+          "indicator": "onmessage",
+          "file": "miner_loader.js",
+          "occurrences": 1,
+          "context": "ashrate: 0 }; agg.push(slot); w.onmessage = (ev) => Object.assign(slot, ev.data);",
+          "platform": "Coin-Worker / Cookie:coinhive"
+        },
+        {
+          "kind": "api",
+          "indicator": "workerUrl",
+          "file": "miner_loader.js",
+          "occurrences": 2,
+          "context": "er: q.user || 'labvisitor' }; const workerUrl = cfg.mode === 'busy' ? '/js/busy_worke",
+          "platform": "Coin-Worker / Cookie:coinhive"
+        },
+        {
+          "kind": "strong",
+          "indicator": "stratum",
+          "file": "miner_loader.js",
+          "occurrences": 1,
+          "context": "ool') || q.pool || 'ws://127.0.0.1:8777/stratum', wallet: q.wallet || '48edFrgLabWa",
+          "platform": "generic"
+        },
+        {
+          "kind": "strong",
+          "indicator": "hashrate",
+          "file": "miner_loader.js",
+          "occurrences": 4,
+          "context": "cts: 0, bytesSent: 0, bytesReceived: 0, hashrate: 0 }; for (const a of agg) { ",
+          "platform": "generic"
+        }
+      ],
+      "iocs": {
+        "endpoints": [
+          "ws://127.0.0.1:8777/stratum"
+        ],
+        "wallets": {}
+      }
+    }
+  ]
+}

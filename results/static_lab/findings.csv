@@ -1,0 +1,7 @@
+url,label,score,platforms,n_files,html_bytes,js_bytes,workers,webassembly,websockets,eval_calls,atob_calls,max_entropy,minified,n_strong_hits,endpoints,wallets,top_indicator,evidence_file
+lab\web\pages\busy.html,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",30.75,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",3,0,6655,1,0,1,0,0,4.946,False,3,ws://127.0.0.1:8777/stratum,,miner_loader.js,evidence_lab_web_pages_busy_html.json
+lab\web\pages\mining.html,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",30.75,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",3,0,6655,1,0,1,0,0,4.946,False,3,ws://127.0.0.1:8777/stratum,,miner_loader.js,evidence_lab_web_pages_mining_html.json
+lab\web\js\miner_worker.js,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",7.6,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",1,0,2463,0,0,0,0,0,4.832,False,2,,,sha256Short,evidence_lab_web_js_miner_worker_js.json
+lab\web\js\busy_worker.js,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",5.0,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",1,0,1409,0,0,0,0,0,4.731,False,1,,,sha256Short,evidence_lab_web_js_busy_worker_js.json
+lab\web\js\sha256.js,"miner:Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",1.8,"Project5 lab miner (emulated, SHA-256 PoW over WebSocket)",1,0,3688,0,0,0,0,0,5.148,False,0,,,sha256Short,evidence_lab_web_js_sha256_js.json
+lab\web\pages\clean.html,clean,0.0,,2,0,1823,0,0,0,0,0,4.946,False,0,,,,evidence_lab_web_pages_clean_html.json

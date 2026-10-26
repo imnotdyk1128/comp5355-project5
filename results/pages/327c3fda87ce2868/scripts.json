@@ -1,0 +1,11 @@
+[
+  {
+    "src": "/s.js",
+    "url": "https://example.com/s.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 1963,
+    "error": "",
+    "file": "327c3fda87ce2868\\scripts\\93eb5f9b408cf16d.js"
+  }
+]

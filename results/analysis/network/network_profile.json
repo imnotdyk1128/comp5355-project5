@@ -1,0 +1,4232 @@
+{
+  "pool": {
+    "per_connection": {
+      "1": {
+        "conn_id": "1",
+        "trial_tag": "mining1w1",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w1",
+        "first_s": 283.237,
+        "last_s": 315.886,
+        "lifetime_s": 32.65,
+        "frames": 61,
+        "frame_types": {
+          "auth": 1,
+          "job": 12,
+          "share": 24,
+          "ack": 24
+        },
+        "bytes_up": 3706.0,
+        "bytes_down": 2541.0,
+        "mean_frame_up": 148.2,
+        "mean_frame_down": 70.6,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.908,
+        "down_kbps": 0.623,
+        "shares": 24,
+        "share_interval_mean_s": 1.16,
+        "share_interval_sd_s": 0.86,
+        "job_interval_mean_s": 2.97,
+        "difficulty_trace": [
+          [
+            283.237,
+            22
+          ],
+          [
+            283.237,
+            22
+          ],
+          [
+            285.849,
+            22
+          ],
+          [
+            288.046,
+            22
+          ],
+          [
+            288.046,
+            22
+          ],
+          [
+            288.185,
+            22
+          ],
+          [
+            288.185,
+            22
+          ],
+          [
+            288.245,
+            22
+          ],
+          [
+            288.245,
+            22
+          ],
+          [
+            288.856,
+            22
+          ],
+          [
+            290.327,
+            22
+          ],
+          [
+            290.327,
+            22
+          ],
+          [
+            291.149,
+            22
+          ],
+          [
+            291.15,
+            22
+          ],
+          [
+            291.838,
+            22
+          ],
+          [
+            291.838,
+            22
+          ],
+          [
+            291.838,
+            22
+          ],
+          [
+            291.969,
+            22
+          ],
+          [
+            291.969,
+            22
+          ],
+          [
+            292.786,
+            22
+          ],
+          [
+            292.786,
+            22
+          ],
+          [
+            294.167,
+            22
+          ],
+          [
+            294.167,
+            22
+          ],
+          [
+            294.707,
+            22
+          ],
+          [
+            294.707,
+            22
+          ],
+          [
+            294.843,
+            22
+          ],
+          [
+            296.786,
+            22
+          ],
+          [
+            296.787,
+            22
+          ],
+          [
+            297.839,
+            22
+          ],
+          [
+            299.619,
+            22
+          ],
+          [
+            299.619,
+            22
+          ],
+          [
+            300.844,
+            22
+          ],
+          [
+            301.887,
+            22
+          ],
+          [
+            301.887,
+            22
+          ],
+          [
+            303.851,
+            22
+          ],
+          [
+            303.885,
+            22
+          ],
+          [
+            303.885,
+            22
+          ],
+          [
+            306.638,
+            22
+          ],
+          [
+            306.638,
+            22
+          ],
+          [
+            306.846,
+            22
+          ],
+          [
+            306.846,
+            22
+          ],
+          [
+            306.846,
+            22
+          ],
+          [
+            307.089,
+            22
+          ],
+          [
+            307.089,
+            22
+          ],
+          [
+            308.709,
+            22
+          ],
+          [
+            308.709,
+            22
+          ],
+          [
+            309.856,
+            22
+          ],
+          [
+            310.318,
+            22
+          ],
+          [
+            310.318,
+            22
+          ],
+          [
+            310.797,
+            22
+          ],
+          [
+            310.797,
+            22
+          ],
+          [
+            311.145,
+            22
+          ],
+          [
+            311.145,
+            22
+          ],
+          [
+            312.611,
+            22
+          ],
+          [
+            312.611,
+            22
+          ],
+          [
+            312.87,
+            22
+          ],
+          [
+            313.109,
+            22
+          ],
+          [
+            313.11,
+            22
+          ],
+          [
+            314.673,
+            22
+          ],
+          [
+            314.673,
+            22
+          ]
+        ],
+        "total": 6247.0
+      },
+      "2": {
+        "conn_id": "2",
+        "trial_tag": "mining1w2",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining1w2",
+        "first_s": 320.429,
+        "last_s": 355.127,
+        "lifetime_s": 34.7,
+        "frames": 64,
+        "frame_types": {
+          "auth": 1,
+          "job": 13,
+          "share": 25,
+          "ack": 25
+        },
+        "bytes_up": 3853.0,
+        "bytes_down": 2716.0,
+        "mean_frame_up": 148.2,
+        "mean_frame_down": 71.5,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.888,
+        "down_kbps": 0.626,
+        "shares": 25,
+        "share_interval_mean_s": 1.44,
+        "share_interval_sd_s": 1.21,
+        "job_interval_mean_s": 2.88,
+        "difficulty_trace": [
+          [
+            320.429,
+            22
+          ],
+          [
+            320.429,
+            22
+          ],
+          [
+            320.513,
+            22
+          ],
+          [
+            320.513,
+            22
+          ],
+          [
+            321.24,
+            22
+          ],
+          [
+            321.241,
+            22
+          ],
+          [
+            321.904,
+            22
+          ],
+          [
+            322.284,
+            22
+          ],
+          [
+            322.284,
+            22
+          ],
+          [
+            324.903,
+            22
+          ],
+          [
+            325.069,
+            22
+          ],
+          [
+            325.069,
+            22
+          ],
+          [
+            326.039,
+            22
+          ],
+          [
+            326.039,
+            22
+          ],
+          [
+            327.258,
+            22
+          ],
+          [
+            327.258,
+            22
+          ],
+          [
+            327.907,
+            22
+          ],
+          [
+            330.918,
+            22
+          ],
+          [
+            331.285,
+            22
+          ],
+          [
+            331.285,
+            22
+          ],
+          [
+            331.781,
+            22
+          ],
+          [
+            331.781,
+            22
+          ],
+          [
+            333.443,
+            22
+          ],
+          [
+            333.444,
+            22
+          ],
+          [
+            333.927,
+            22
+          ],
+          [
+            336.928,
+            22
+          ],
+          [
+            337.162,
+            22
+          ],
+          [
+            337.162,
+            22
+          ],
+          [
+            338.963,
+            22
+          ],
+          [
+            338.963,
+            22
+          ],
+          [
+            339.933,
+            22
+          ],
+          [
+            341.996,
+            22
+          ],
+          [
+            341.996,
+            22
+          ],
+          [
+            342.95,
+            22
+          ],
+          [
+            345.952,
+            22
+          ],
+          [
+            346.112,
+            22
+          ],
+          [
+            346.112,
+            22
+          ],
+          [
+            346.939,
+            22
+          ],
+          [
+            346.939,
+            22
+          ],
+          [
+            347.643,
+            22
+          ],
+          [
+            347.643,
+            22
+          ],
+          [
+            347.764,
+            22
+          ],
+          [
+            347.764,
+            22
+          ],
+          [
+            348.051,
+            22
+          ],
+          [
+            348.051,
+            22
+          ],
+          [
+            348.954,
+            22
+          ],
+          [
+            349.656,
+            22
+          ],
+          [
+            349.657,
+            22
+          ],
+          [
+            350.759,
+            22
+          ],
+          [
+            350.759,
+            22
+          ],
+          [
+            350.782,
+            22
+          ],
+          [
+            350.782,
+            22
+          ],
+          [
+            351.249,
+            22
+          ],
+          [
+            351.249,
+            22
+          ],
+          [
+            351.953,
+            22
+          ],
+          [
+            353.325,
+            22
+          ],
+          [
+            353.325,
+            22
+          ],
+          [
+            353.867,
+            22
+          ],
+          [
+            353.867,
+            22
+          ],
+          [
+            354.799,
+            22
+          ]
+        ],
+        "total": 6569.0
+      },
+      "3": {
+        "conn_id": "3",
+        "trial_tag": "mining2w1",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w1",
+        "first_s": 357.467,
+        "last_s": 392.421,
+        "lifetime_s": 34.95,
+        "frames": 59,
+        "frame_types": {
+          "auth": 1,
+          "job": 13,
+          "share": 22,
+          "ack": 22,
+          "set_diff": 1
+        },
+        "bytes_up": 3412.0,
+        "bytes_down": 2655.0,
+        "mean_frame_up": 148.3,
+        "mean_frame_down": 73.8,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.781,
+        "down_kbps": 0.608,
+        "shares": 22,
+        "share_interval_mean_s": 1.65,
+        "share_interval_sd_s": 2.38,
+        "job_interval_mean_s": 2.8,
+        "difficulty_trace": [
+          [
+            357.467,
+            22
+          ],
+          [
+            357.467,
+            22
+          ],
+          [
+            357.715,
+            22
+          ],
+          [
+            357.715,
+            22
+          ],
+          [
+            357.715,
+            22
+          ],
+          [
+            357.715,
+            22
+          ],
+          [
+            357.955,
+            22
+          ],
+          [
+            360.171,
+            22
+          ],
+          [
+            360.171,
+            22
+          ],
+          [
+            360.19,
+            23
+          ],
+          [
+            360.19,
+            23
+          ],
+          [
+            360.19,
+            23
+          ],
+          [
+            360.961,
+            23
+          ],
+          [
+            363.963,
+            23
+          ],
+          [
+            366.963,
+            23
+          ],
+          [
+            369.537,
+            23
+          ],
+          [
+            369.537,
+            23
+          ],
+          [
+            369.548,
+            23
+          ],
+          [
+            369.548,
+            23
+          ],
+          [
+            369.978,
+            23
+          ],
+          [
+            372.989,
+            23
+          ],
+          [
+            373.827,
+            23
+          ],
+          [
+            373.827,
+            23
+          ],
+          [
+            373.829,
+            23
+          ],
+          [
+            373.829,
+            23
+          ],
+          [
+            375.927,
+            23
+          ],
+          [
+            375.927,
+            23
+          ],
+          [
+            375.953,
+            23
+          ],
+          [
+            375.954,
+            23
+          ],
+          [
+            376.006,
+            23
+          ],
+          [
+            377.004,
+            23
+          ],
+          [
+            377.004,
+            23
+          ],
+          [
+            377.004,
+            23
+          ],
+          [
+            377.005,
+            23
+          ],
+          [
+            379.018,
+            23
+          ],
+          [
+            380.119,
+            23
+          ],
+          [
+            380.119,
+            23
+          ],
+          [
+            380.144,
+            23
+          ],
+          [
+            380.144,
+            23
+          ],
+          [
+            382.027,
+            23
+          ],
+          [
+            383.841,
+            23
+          ],
+          [
+            383.841,
+            23
+          ],
+          [
+            383.898,
+            23
+          ],
+          [
+            383.898,
+            23
+          ],
+          [
+            384.177,
+            23
+          ],
+          [
+            384.177,
+            23
+          ],
+          [
+            384.237,
+            23
+          ],
+          [
+            384.237,
+            23
+          ],
+          [
+            385.021,
+            23
+          ],
+          [
+            387.282,
+            23
+          ],
+          [
+            387.282,
+            23
+          ],
+          [
+            387.296,
+            23
+          ],
+          [
+            387.296,
+            23
+          ],
+          [
+            388.036,
+            23
+          ],
+          [
+            391.049,
+            23
+          ],
+          [
+            392.399,
+            23
+          ],
+          [
+            392.4,
+            23
+          ],
+          [
+            392.421,
+            23
+          ],
+          [
+            392.421,
+            23
+          ]
+        ],
+        "total": 6067.0
+      },
+      "4": {
+        "conn_id": "4",
+        "trial_tag": "mining2w2",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining2w2",
+        "first_s": 394.864,
+        "last_s": 427.192,
+        "lifetime_s": 32.33,
+        "frames": 48,
+        "frame_types": {
+          "auth": 1,
+          "job": 12,
+          "share": 17,
+          "ack": 17,
+          "set_diff": 1
+        },
+        "bytes_up": 2663.0,
+        "bytes_down": 2310.0,
+        "mean_frame_up": 147.9,
+        "mean_frame_down": 77.0,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.659,
+        "down_kbps": 0.572,
+        "shares": 17,
+        "share_interval_mean_s": 2.0,
+        "share_interval_sd_s": 3.36,
+        "job_interval_mean_s": 2.94,
+        "difficulty_trace": [
+          [
+            394.864,
+            22
+          ],
+          [
+            394.864,
+            22
+          ],
+          [
+            395.227,
+            22
+          ],
+          [
+            395.228,
+            22
+          ],
+          [
+            395.241,
+            22
+          ],
+          [
+            395.241,
+            22
+          ],
+          [
+            396.341,
+            22
+          ],
+          [
+            396.341,
+            22
+          ],
+          [
+            396.341,
+            23
+          ],
+          [
+            396.342,
+            23
+          ],
+          [
+            396.342,
+            23
+          ],
+          [
+            396.627,
+            23
+          ],
+          [
+            396.628,
+            23
+          ],
+          [
+            396.677,
+            23
+          ],
+          [
+            396.678,
+            23
+          ],
+          [
+            397.07,
+            23
+          ],
+          [
+            400.078,
+            23
+          ],
+          [
+            403.093,
+            23
+          ],
+          [
+            406.093,
+            23
+          ],
+          [
+            408.038,
+            23
+          ],
+          [
+            408.038,
+            23
+          ],
+          [
+            408.065,
+            23
+          ],
+          [
+            408.065,
+            23
+          ],
+          [
+            409.09,
+            23
+          ],
+          [
+            410.644,
+            23
+          ],
+          [
+            410.644,
+            23
+          ],
+          [
+            410.665,
+            23
+          ],
+          [
+            410.665,
+            23
+          ],
+          [
+            411.281,
+            23
+          ],
+          [
+            411.282,
+            23
+          ],
+          [
+            411.329,
+            23
+          ],
+          [
+            411.329,
+            23
+          ],
+          [
+            412.098,
+            23
+          ],
+          [
+            413.28,
+            23
+          ],
+          [
+            413.281,
+            23
+          ],
+          [
+            413.333,
+            23
+          ],
+          [
+            413.333,
+            23
+          ],
+          [
+            415.103,
+            23
+          ],
+          [
+            418.114,
+            23
+          ],
+          [
+            418.301,
+            23
+          ],
+          [
+            418.301,
+            23
+          ],
+          [
+            418.337,
+            23
+          ],
+          [
+            418.338,
+            23
+          ],
+          [
+            421.132,
+            23
+          ],
+          [
+            424.144,
+            23
+          ],
+          [
+            427.16,
+            23
+          ],
+          [
+            427.192,
+            23
+          ],
+          [
+            427.192,
+            23
+          ]
+        ],
+        "total": 4973.0
+      },
+      "5": {
+        "conn_id": "5",
+        "trial_tag": "mining4w1",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w1",
+        "first_s": 431.442,
+        "last_s": 466.24,
+        "lifetime_s": 34.8,
+        "frames": 65,
+        "frame_types": {
+          "auth": 1,
+          "job": 13,
+          "share": 25,
+          "ack": 25,
+          "set_diff": 1
+        },
+        "bytes_up": 3865.0,
+        "bytes_down": 2787.0,
+        "mean_frame_up": 148.7,
+        "mean_frame_down": 71.5,
+        "max_frame_up": 149.0,
+        "up_kbps": 0.889,
+        "down_kbps": 0.641,
+        "shares": 25,
+        "share_interval_mean_s": 1.12,
+        "share_interval_sd_s": 2.21,
+        "job_interval_mean_s": 2.9,
+        "difficulty_trace": [
+          [
+            431.442,
+            22
+          ],
+          [
+            431.442,
+            22
+          ],
+          [
+            433.163,
+            22
+          ],
+          [
+            436.178,
+            22
+          ],
+          [
+            438.163,
+            22
+          ],
+          [
+            438.163,
+            22
+          ],
+          [
+            438.189,
+            22
+          ],
+          [
+            438.19,
+            22
+          ],
+          [
+            438.206,
+            22
+          ],
+          [
+            438.206,
+            22
+          ],
+          [
+            438.362,
+            24
+          ],
+          [
+            438.362,
+            24
+          ],
+          [
+            438.362,
+            24
+          ],
+          [
+            439.182,
+            24
+          ],
+          [
+            442.189,
+            24
+          ],
+          [
+            442.602,
+            24
+          ],
+          [
+            442.602,
+            24
+          ],
+          [
+            442.602,
+            24
+          ],
+          [
+            442.602,
+            24
+          ],
+          [
+            442.632,
+            24
+          ],
+          [
+            442.632,
+            24
+          ],
+          [
+            442.632,
+            24
+          ],
+          [
+            442.632,
+            24
+          ],
+          [
+            445.203,
+            24
+          ],
+          [
+            445.523,
+            24
+          ],
+          [
+            445.523,
+            24
+          ],
+          [
+            445.526,
+            24
+          ],
+          [
+            445.527,
+            24
+          ],
+          [
+            445.549,
+            24
+          ],
+          [
+            445.549,
+            24
+          ],
+          [
+            445.575,
+            24
+          ],
+          [
+            445.575,
+            24
+          ],
+          [
+            448.217,
+            24
+          ],
+          [
+            450.614,
+            24
+          ],
+          [
+            450.615,
+            24
+          ],
+          [
+            450.687,
+            24
+          ],
+          [
+            450.687,
+            24
+          ],
+          [
+            450.848,
+            24
+          ],
+          [
+            450.849,
+            24
+          ],
+          [
+            450.883,
+            24
+          ],
+          [
+            450.883,
+            24
+          ],
+          [
+            451.218,
+            24
+          ],
+          [
+            454.232,
+            24
+          ],
+          [
+            457.232,
+            24
+          ],
+          [
+            459.443,
+            24
+          ],
+          [
+            459.443,
+            24
+          ],
+          [
+            459.577,
+            24
+          ],
+          [
+            459.577,
+            24
+          ],
+          [
+            459.626,
+            24
+          ],
+          [
+            459.626,
+            24
+          ],
+          [
+            459.731,
+            24
+          ],
+          [
+            459.732,
+            24
+          ],
+          [
+            460.068,
+            24
+          ],
+          [
+            460.068,
+            24
+          ],
+          [
+            460.224,
+            24
+          ],
+          [
+            463.232,
+            24
+          ],
+          [
+            464.746,
+            24
+          ],
+          [
+            464.746,
+            24
+          ],
+          [
+            464.77,
+            24
+          ],
+          [
+            464.77,
+            24
+          ]
+        ],
+        "total": 6652.0
+      },
+      "6": {
+        "conn_id": "6",
+        "trial_tag": "mining4w2",
+        "worker": "48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.mining4w2",
+        "first_s": 469.268,
+        "last_s": 502.357,
+        "lifetime_s": 33.09,
+        "frames": 78,
+        "frame_types": {
+          "auth": 1,
+          "job": 12,
+          "share": 32,
+          "ack": 32,
+          "set_diff": 1
+        },
+        "bytes_up": 4916.0,
+        "bytes_down": 2970.0,
+        "mean_frame_up": 149.0,
+        "mean_frame_down": 66.0,
+        "max_frame_up": 149.0,
+        "up_kbps": 1.189,
+        "down_kbps": 0.718,
+        "shares": 32,
+        "share_interval_mean_s": 0.86,
+        "share_interval_sd_s": 2.01,
+        "job_interval_mean_s": 3.01,
+        "difficulty_trace": [
+          [
+            469.268,
+            22
+          ],
+          [
+            469.268,
+            22
+          ],
+          [
+            471.034,
+            22
+          ],
+          [
+            471.035,
+            22
+          ],
+          [
+            471.876,
+            22
+          ],
+          [
+            471.876,
+            22
+          ],
+          [
+            472.253,
+            22
+          ],
+          [
+            472.713,
+            22
+          ],
+          [
+            472.714,
+            22
+          ],
+          [
+            472.776,
+            22
+          ],
+          [
+            472.776,
+            22
+          ],
+          [
+            474.808,
+            22
+          ],
+          [
+            474.808,
+            22
+          ],
+          [
+            474.858,
+            22
+          ],
+          [
+            474.858,
+            22
+          ],
+          [
+            474.886,
+            22
+          ],
+          [
+            474.886,
+            22
+          ],
+          [
+            474.912,
+            22
+          ],
+          [
+            474.912,
+            22
+          ],
+          [
+            474.949,
+            22
+          ],
+          [
+            474.949,
+            22
+          ],
+          [
+            475.001,
+            22
+          ],
+          [
+            475.001,
+            22
+          ],
+          [
+            475.017,
+            22
+          ],
+          [
+            475.018,
+            22
+          ],
+          [
+            475.166,
+            22
+          ],
+          [
+            475.166,
+            22
+          ],
+          [
+            475.268,
+            22
+          ],
+          [
+            477.369,
+            22
+          ],
+          [
+            477.37,
+            22
+          ],
+          [
+            477.379,
+            22
+          ],
+          [
+            477.381,
+            22
+          ],
+          [
+            477.489,
+            22
+          ],
+          [
+            477.489,
+            22
+          ],
+          [
+            477.501,
+            24
+          ],
+          [
+            477.501,
+            24
+          ],
+          [
+            477.501,
+            24
+          ],
+          [
+            478.293,
+            24
+          ],
+          [
+            481.301,
+            24
+          ],
+          [
+            484.317,
+            24
+          ],
+          [
+            487.324,
+            24
+          ],
+          [
+            487.842,
+            24
+          ],
+          [
+            487.842,
+            24
+          ],
+          [
+            487.861,
+            24
+          ],
+          [
+            487.861,
+            24
+          ],
+          [
+            487.866,
+            24
+          ],
+          [
+            487.867,
+            24
+          ],
+          [
+            487.89,
+            24
+          ],
+          [
+            487.89,
+            24
+          ],
+          [
+            490.332,
+            24
+          ],
+          [
+            492.227,
+            24
+          ],
+          [
+            492.227,
+            24
+          ],
+          [
+            492.274,
+            24
+          ],
+          [
+            492.274,
+            24
+          ],
+          [
+            492.401,
+            24
+          ],
+          [
+            492.401,
+            24
+          ],
+          [
+            492.415,
+            24
+          ],
+          [
+            492.416,
+            24
+          ],
+          [
+            493.344,
+            24
+          ],
+          [
+            495.268,
+            24
+          ]
+        ],
+        "total": 7886.0
+      }
+    },
+    "aggregate": {
+      "connections": 6,
+      "open_events": 6,
+      "close_events": 6,
+      "total_bytes": 38394.0,
+      "mean_lifetime_s": 33.75,
+      "mean_frames_per_conn": 62.5,
+      "mean_up_kbps": 0.886,
+      "message_mix": {
+        "auth": 6,
+        "job": 75,
+        "share": 145,
+        "ack": 145,
+        "set_diff": 4
+      },
+      "bytes_up_total": 22415.0,
+      "bytes_down_total": 15979.0
+    },
+    "per_trial": {
+      "mining1w1": {
+        "trial_tag": "mining1w1",
+        "sockets": 1,
+        "window_s": 32.6,
+        "frames": 61,
+        "bytes_up": 3706.0,
+        "bytes_down": 2541.0,
+        "up_kbps": 0.908,
+        "mean_frame_up": 148.2,
+        "shares": 24,
+        "shares_per_s": 0.735,
+        "mean_lifetime_s": 32.65,
+        "mean_share_interval_s": 1.16
+      },
+      "mining1w2": {
+        "trial_tag": "mining1w2",
+        "sockets": 1,
+        "window_s": 34.7,
+        "frames": 64,
+        "bytes_up": 3853.0,
+        "bytes_down": 2716.0,
+        "up_kbps": 0.888,
+        "mean_frame_up": 148.2,
+        "shares": 25,
+        "shares_per_s": 0.721,
+        "mean_lifetime_s": 34.7,
+        "mean_share_interval_s": 1.44
+      },
+      "mining2w1": {
+        "trial_tag": "mining2w1",
+        "sockets": 1,
+        "window_s": 35.0,
+        "frames": 59,
+        "bytes_up": 3412.0,
+        "bytes_down": 2655.0,
+        "up_kbps": 0.781,
+        "mean_frame_up": 148.3,
+        "shares": 22,
+        "shares_per_s": 0.629,
+        "mean_lifetime_s": 34.95,
+        "mean_share_interval_s": 1.65
+      },
+      "mining2w2": {
+        "trial_tag": "mining2w2",
+        "sockets": 1,
+        "window_s": 32.3,
+        "frames": 48,
+        "bytes_up": 2663.0,
+        "bytes_down": 2310.0,
+        "up_kbps": 0.659,
+        "mean_frame_up": 147.9,
+        "shares": 17,
+        "shares_per_s": 0.526,
+        "mean_lifetime_s": 32.33,
+        "mean_share_interval_s": 2.0
+      },
+      "mining4w1": {
+        "trial_tag": "mining4w1",
+        "sockets": 1,
+        "window_s": 34.8,
+        "frames": 65,
+        "bytes_up": 3865.0,
+        "bytes_down": 2787.0,
+        "up_kbps": 0.889,
+        "mean_frame_up": 148.7,
+        "shares": 25,
+        "shares_per_s": 0.718,
+        "mean_lifetime_s": 34.8,
+        "mean_share_interval_s": 1.12
+      },
+      "mining4w2": {
+        "trial_tag": "mining4w2",
+        "sockets": 1,
+        "window_s": 33.1,
+        "frames": 78,
+        "bytes_up": 4916.0,
+        "bytes_down": 2970.0,
+        "up_kbps": 1.189,
+        "mean_frame_up": 149.0,
+        "shares": 32,
+        "shares_per_s": 0.967,
+        "mean_lifetime_s": 33.09,
+        "mean_share_interval_s": 0.86
+      }
+    }
+  },
+  "http_page_traffic": {
+    "requests": 138,
+    "bytes_total": 266476.0,
+    "unique_paths": 11,
+    "top_paths": [
+      [
+        "/js/sha256.js",
+        28
+      ],
+      [
+        "/css/site.css",
+        14
+      ],
+      [
+        "/js/page_common.js",
+        14
+      ],
+      [
+        "/img/banner1.svg",
+        14
+      ],
+      [
+        "/img/banner0.svg",
+        14
+      ],
+      [
+        "/js/busy_worker.js",
+        14
+      ],
+      [
+        "/js/miner_worker.js",
+        14
+      ],
+      [
+        "/js/miner_loader.js",
+        12
+      ]
+    ],
+    "mean_response_bytes": 1931.0,
+    "burst_window_s": 472.7,
+    "requests_per_s": 0.29,
+    "inter_request_mean_s": 3.45,
+    "note": "HTTP page traffic is a short burst of KB-scale responses"
+  },
+  "har_per_trial": {
+    "busy_127_0_0_1_8080_busy_t1_r1": {
+      "requests": 8,
+      "bytes": 12195,
+      "hosts": {
+        "127.0.0.1:8080": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 33.4,
+      "unfinished_requests": 0
+    },
+    "busy_127_0_0_1_8080_busy_t1_r2": {
+      "requests": 8,
+      "bytes": 12195,
+      "hosts": {
+        "127.0.0.1:8080": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 33.1,
+      "unfinished_requests": 0
+    },
+    "busy_127_0_0_1_8080_busy_t2_r1": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 75.8,
+      "unfinished_requests": 0
+    },
+    "busy_127_0_0_1_8080_busy_t2_r2": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 47.0,
+      "unfinished_requests": 0
+    },
+    "busy_127_0_0_1_8080_busy_t4_r1": {
+      "requests": 14,
+      "bytes": 23259,
+      "hosts": {
+        "127.0.0.1:8080": 14
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 20094.2,
+      "unfinished_requests": 0
+    },
+    "busy_127_0_0_1_8080_busy_t4_r2": {
+      "requests": 14,
+      "bytes": 23259,
+      "hosts": {
+        "127.0.0.1:8080": 14
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 15099.5,
+      "unfinished_requests": 0
+    },
+    "busy_t1_r1": {
+      "requests": 8,
+      "bytes": 12195,
+      "hosts": {
+        "127.0.0.1:8080": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 31.4,
+      "unfinished_requests": 0
+    },
+    "busy_t1_r2": {
+      "requests": 8,
+      "bytes": 12195,
+      "hosts": {
+        "127.0.0.1:8080": 8
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 30.4,
+      "unfinished_requests": 0
+    },
+    "busy_t2_r1": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 43.5,
+      "unfinished_requests": 0
+    },
+    "busy_t2_r2": {
+      "requests": 10,
+      "bytes": 15883,
+      "hosts": {
+        "127.0.0.1:8080": 10
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 41.1,
+      "unfinished_requests": 0
+    },
+    "busy_t4_r1": {
+      "requests": 14,
+      "bytes": 23259,
+      "hosts": {
+        "127.0.0.1:8080": 14
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 20100.5,
+      "unfinished_requests": 0
+    },
+    "busy_t4_r2": {
+      "requests": 14,
+      "bytes": 23259,
+      "hosts": {
+        "127.0.0.1:8080": 14
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 1.6,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 20103.1,
+      "unfinished_requests": 0
+    },
+    "clean_127_0_0_1_8080_clean_t0_r1": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 28.9,
+      "unfinished_requests": 0
+    },
+    "clean_127_0_0_1_8080_clean_t0_r2": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 18.3,
+      "unfinished_requests": 0
+    },
+    "clean_t0_r1": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 24.1,
+      "unfinished_requests": 0
+    },
+    "clean_t0_r2": {
+      "requests": 5,
+      "bytes": 3448,
+      "hosts": {
+        "127.0.0.1:8080": 5
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 1,
+        "image/svg+xml": 2
+      },
+      "mean_response_kbytes": 0.7,
+      "max_response_kbytes": 1.8,
+      "load_time_ms": 15.3,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t1_r1": {
+      "requests": 9,
+      "bytes": 12199,
+      "hosts": {
+        "127.0.0.1:8080": 8,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.3,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 32690.0,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t1_r2": {
+      "requests": 9,
+      "bytes": 12199,
+      "hosts": {
+        "127.0.0.1:8080": 8,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.3,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 34731.9,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t2_r1": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 35007.4,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t2_r2": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 32381.0,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t4_r1": {
+      "requests": 15,
+      "bytes": 23263,
+      "hosts": {
+        "127.0.0.1:8080": 14,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 54894.7,
+      "unfinished_requests": 0
+    },
+    "mining_127_0_0_1_8080_mining_t4_r2": {
+      "requests": 15,
+      "bytes": 23263,
+      "hosts": {
+        "127.0.0.1:8080": 14,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 48185.5,
+      "unfinished_requests": 0
+    },
+    "mining_t1_r1": {
+      "requests": 9,
+      "bytes": 12199,
+      "hosts": {
+        "127.0.0.1:8080": 8,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.3,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 33031.8,
+      "unfinished_requests": 0
+    },
+    "mining_t1_r2": {
+      "requests": 9,
+      "bytes": 12199,
+      "hosts": {
+        "127.0.0.1:8080": 8,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 4,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.3,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 33457.5,
+      "unfinished_requests": 0
+    },
+    "mining_t2_r1": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 33949.5,
+      "unfinished_requests": 0
+    },
+    "mining_t2_r2": {
+      "requests": 11,
+      "bytes": 15887,
+      "hosts": {
+        "127.0.0.1:8080": 10,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 6,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.4,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 44233.3,
+      "unfinished_requests": 0
+    },
+    "mining_t4_r1": {
+      "requests": 15,
+      "bytes": 23263,
+      "hosts": {
+        "127.0.0.1:8080": 14,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 54893.1,
+      "unfinished_requests": 0
+    },
+    "mining_t4_r2": {
+      "requests": 15,
+      "bytes": 23263,
+      "hosts": {
+        "127.0.0.1:8080": 14,
+        "127.0.0.1:8777": 1
+      },
+      "mime": {
+        "text/html": 1,
+        "text/css": 1,
+        "application/javascript": 10,
+        "image/svg+xml": 2,
+        "x-unknown": 1
+      },
+      "mean_response_kbytes": 1.5,
+      "max_response_kbytes": 4.8,
+      "load_time_ms": 55070.7,
+      "unfinished_requests": 0
+    }
+  },
+  "page_websockets": [
+    {
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.069,
+      "last_seen": 32.83,
+      "closed": null,
+      "frames_up": 25,
+      "frames_down": 36,
+      "bytes_up": 3806.0,
+      "bytes_down": 2541.0,
+      "lifetime_s": 32.8,
+      "mean_frame_gap_s": 1.1,
+      "mean_frame_up": 152.2,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.063,
+      "last_seen": 34.823,
+      "closed": null,
+      "frames_up": 26,
+      "frames_down": 38,
+      "bytes_up": 3957.0,
+      "bytes_down": 2716.0,
+      "lifetime_s": 34.8,
+      "mean_frame_gap_s": 1.19,
+      "mean_frame_up": 152.2,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.061,
+      "last_seen": 33.821,
+      "closed": null,
+      "frames_up": 21,
+      "frames_down": 34,
+      "bytes_up": 3198.0,
+      "bytes_down": 2567.0,
+      "lifetime_s": 33.8,
+      "mean_frame_gap_s": 1.25,
+      "mean_frame_up": 152.3,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.063,
+      "last_seen": 32.573,
+      "closed": null,
+      "frames_up": 18,
+      "frames_down": 30,
+      "bytes_up": 2735.0,
+      "bytes_down": 2310.0,
+      "lifetime_s": 32.5,
+      "mean_frame_gap_s": 1.62,
+      "mean_frame_up": 151.9,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.062,
+      "last_seen": 33.827,
+      "closed": null,
+      "frames_up": 26,
+      "frames_down": 38,
+      "bytes_up": 3969.0,
+      "bytes_down": 2662.0,
+      "lifetime_s": 33.8,
+      "mean_frame_gap_s": 1.15,
+      "mean_frame_up": 152.7,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.062,
+      "last_seen": 33.325,
+      "closed": null,
+      "frames_up": 33,
+      "frames_down": 45,
+      "bytes_up": 5048.0,
+      "bytes_down": 2970.0,
+      "lifetime_s": 33.3,
+      "mean_frame_gap_s": 0.73,
+      "mean_frame_up": 153.0,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.05,
+      "last_seen": 33.06,
+      "closed": null,
+      "frames_up": 21,
+      "frames_down": 33,
+      "bytes_up": 3192.0,
+      "bytes_down": 2436.0,
+      "lifetime_s": 33.0,
+      "mean_frame_gap_s": 1.37,
+      "mean_frame_up": 152.0,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.051,
+      "last_seen": 33.561,
+      "closed": null,
+      "frames_up": 15,
+      "frames_down": 28,
+      "bytes_up": 2286.0,
+      "bytes_down": 2303.0,
+      "lifetime_s": 33.5,
+      "mean_frame_gap_s": 1.66,
+      "mean_frame_up": 152.4,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.053,
+      "last_seen": 34.062,
+      "closed": null,
+      "frames_up": 30,
+      "frames_down": 44,
+      "bytes_up": 4569.0,
+      "bytes_down": 3034.0,
+      "lifetime_s": 34.0,
+      "mean_frame_gap_s": 0.9,
+      "mean_frame_up": 152.3,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.051,
+      "last_seen": 34.311,
+      "closed": null,
+      "frames_up": 19,
+      "frames_down": 32,
+      "bytes_up": 2898.0,
+      "bytes_down": 2479.0,
+      "lifetime_s": 34.3,
+      "mean_frame_gap_s": 1.35,
+      "mean_frame_up": 152.5,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.05,
+      "last_seen": 32.061,
+      "closed": null,
+      "frames_up": 44,
+      "frames_down": 61,
+      "bytes_up": 6647.0,
+      "bytes_down": 3809.0,
+      "lifetime_s": 32.0,
+      "mean_frame_gap_s": 0.48,
+      "mean_frame_up": 151.1,
+      "open_at_end": true
+    },
+    {
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2",
+      "url": "ws://127.0.0.1:8777/stratum",
+      "created": 0.05,
+      "last_seen": 33.56,
+      "closed": null,
+      "frames_up": 24,
+      "frames_down": 36,
+      "bytes_up": 3690.0,
+      "bytes_down": 2574.0,
+      "lifetime_s": 33.5,
+      "mean_frame_gap_s": 1.24,
+      "mean_frame_up": 153.8,
+      "open_at_end": true
+    }
+  ],
+  "client_sockets": [
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.181,
+      "last": 34.181,
+      "ticks": 450,
+      "pids": [
+        "26072",
+        "30768"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 15,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.181,
+      "last": 34.181,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.162,
+      "last": 34.163,
+      "ticks": 277,
+      "pids": [
+        "26072",
+        "30768"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 15,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.162,
+      "last": 34.163,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.169,
+      "last": 34.169,
+      "ticks": 130,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 6,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.169,
+      "last": 34.169,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.174,
+      "last": 34.174,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.174,
+      "last": 34.174,
+      "ticks": 35,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.183,
+      "last": 34.185,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.183,
+      "last": 34.185,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.192,
+      "last": 34.191,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.192,
+      "last": 34.191,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.110.101:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.27.11:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "13.107.6.158:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.20.2:443",
+      "first": 5.145,
+      "last": 34.144,
+      "ticks": 60,
+      "pids": [
+        "36340"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 58,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.110.101:443",
+      "first": 5.149,
+      "last": 14.149,
+      "ticks": 10,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 9.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.27.11:443",
+      "first": 5.149,
+      "last": 22.149,
+      "ticks": 31,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 17.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 48,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "13.107.6.158:443",
+      "first": 5.149,
+      "last": 22.149,
+      "ticks": 18,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 17.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.20.2:443",
+      "first": 5.149,
+      "last": 5.149,
+      "ticks": 2,
+      "pids": [
+        "36340"
+      ],
+      "lifetime_s": 0.0,
+      "local_ports": 2,
+      "cond": "busy",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.143,
+      "last": 34.144,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.143,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.143,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.143,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.143,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.153,
+      "last": 34.154,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.153,
+      "last": 5.153,
+      "ticks": 1,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 0.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.153,
+      "last": 34.154,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.153,
+      "last": 34.154,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.153,
+      "last": 34.154,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.146,
+      "last": 34.144,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.146,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.146,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.146,
+      "last": 34.144,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.148,
+      "last": 34.145,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.148,
+      "last": 34.145,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.148,
+      "last": 34.145,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.148,
+      "last": 34.145,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "busy",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.2,
+      "last": 34.201,
+      "ticks": 367,
+      "pids": [
+        "26072",
+        "30768"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 14,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.2,
+      "last": 34.201,
+      "ticks": 60,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.193,
+      "last": 34.193,
+      "ticks": 410,
+      "pids": [
+        "26072",
+        "30768"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 15,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.193,
+      "last": 34.193,
+      "ticks": 60,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.101:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.27.11:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "13.107.6.158:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.20.2:443",
+      "first": 5.202,
+      "last": 34.204,
+      "ticks": 60,
+      "pids": [
+        "36340"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "150.171.110.101:443",
+      "first": 30.202,
+      "last": 34.204,
+      "ticks": 5,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 4.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.28.11:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.110.101:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "150.171.27.11:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 60,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "13.107.6.158:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.20.2:443",
+      "first": 5.166,
+      "last": 34.168,
+      "ticks": 60,
+      "pids": [
+        "36340"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 2,
+      "cond": "clean",
+      "threads": "0",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.202,
+      "last": 34.201,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.202,
+      "last": 34.201,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.202,
+      "last": 34.201,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.167,
+      "last": 34.167,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.167,
+      "last": 34.167,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.167,
+      "last": 34.167,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.165,
+      "last": 34.166,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.165,
+      "last": 34.166,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.165,
+      "last": 34.166,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.17,
+      "last": 34.171,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.17,
+      "last": 34.171,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.17,
+      "last": 34.171,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.173,
+      "last": 34.177,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.173,
+      "last": 34.177,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.173,
+      "last": 34.177,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.173,
+      "last": 34.174,
+      "ticks": 90,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:7892",
+      "first": 5.173,
+      "last": 34.174,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.173,
+      "last": 34.174,
+      "ticks": 30,
+      "pids": [
+        "26072"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.149,
+      "last": 34.149,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.148,
+      "last": 34.148,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.148,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.148,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.148,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.148,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "1",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.153,
+      "last": 34.153,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.153,
+      "last": 34.153,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.153,
+      "last": 34.153,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.153,
+      "last": 34.153,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.153,
+      "last": 34.153,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.152,
+      "last": 34.152,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.152,
+      "last": 34.152,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.152,
+      "last": 34.152,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.152,
+      "last": 34.152,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.152,
+      "last": 34.152,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "2",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.151,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.151,
+      "last": 34.148,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "202.89.233.101:443",
+      "first": 5.151,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.151,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.151,
+      "last": 34.148,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "1"
+    },
+    {
+      "peer": "127.0.0.1:8080",
+      "first": 5.153,
+      "last": 34.15,
+      "ticks": 90,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 3,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "127.0.0.1:8777",
+      "first": 5.153,
+      "last": 34.15,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "40.99.33.146:443",
+      "first": 5.153,
+      "last": 34.15,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "202.89.233.100:443",
+      "first": 5.153,
+      "last": 34.15,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    },
+    {
+      "peer": "40.104.21.82:443",
+      "first": 5.153,
+      "last": 34.15,
+      "ticks": 30,
+      "pids": [
+        "32552"
+      ],
+      "lifetime_s": 29.0,
+      "local_ports": 1,
+      "cond": "mining",
+      "threads": "4",
+      "trial": "2"
+    }
+  ],
+  "client_side_socket_metrics": [
+    {
+      "group": "clean",
+      "estab_tcp_p95": 15.0,
+      "estab_tcp_mean": 14.19,
+      "up_kbps_mean": 2294.79,
+      "cpu_mean": 0.52,
+      "har_entries": 5.0,
+      "har_bytes": 3448.0
+    },
+    {
+      "group": "clean",
+      "estab_tcp_p95": 17.0,
+      "estab_tcp_mean": 15.74,
+      "up_kbps_mean": 196.09,
+      "cpu_mean": 0.87,
+      "har_entries": 5.0,
+      "har_bytes": 3448.0
+    },
+    {
+      "group": "busy-w1",
+      "estab_tcp_p95": 18.0,
+      "estab_tcp_mean": 18.0,
+      "up_kbps_mean": 104.48,
+      "cpu_mean": 99.72,
+      "har_entries": 8.0,
+      "har_bytes": 12195.0
+    },
+    {
+      "group": "busy-w1",
+      "estab_tcp_p95": 14.0,
+      "estab_tcp_mean": 11.74,
+      "up_kbps_mean": 9.67,
+      "cpu_mean": 100.17,
+      "har_entries": 8.0,
+      "har_bytes": 12195.0
+    },
+    {
+      "group": "busy-w2",
+      "estab_tcp_p95": 9.0,
+      "estab_tcp_mean": 7.15,
+      "up_kbps_mean": 2.61,
+      "cpu_mean": 199.25,
+      "har_entries": 10.0,
+      "har_bytes": 15883.0
+    },
+    {
+      "group": "busy-w2",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 4.07,
+      "up_kbps_mean": 53.3,
+      "cpu_mean": 198.45,
+      "har_entries": 10.0,
+      "har_bytes": 15883.0
+    },
+    {
+      "group": "busy-w4",
+      "estab_tcp_p95": 4.0,
+      "estab_tcp_mean": 4.0,
+      "up_kbps_mean": 36.54,
+      "cpu_mean": 398.21,
+      "har_entries": 14.0,
+      "har_bytes": 23259.0
+    },
+    {
+      "group": "busy-w4",
+      "estab_tcp_p95": 4.0,
+      "estab_tcp_mean": 4.0,
+      "up_kbps_mean": 1241.18,
+      "cpu_mean": 398.5,
+      "har_entries": 14.0,
+      "har_bytes": 23259.0
+    },
+    {
+      "group": "mining-w1",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 8.63,
+      "cpu_mean": 100.05,
+      "har_entries": 9.0,
+      "har_bytes": 12199.0
+    },
+    {
+      "group": "mining-w1",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 26.11,
+      "cpu_mean": 99.71,
+      "har_entries": 9.0,
+      "har_bytes": 12199.0
+    },
+    {
+      "group": "mining-w2",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 25.74,
+      "cpu_mean": 199.41,
+      "har_entries": 11.0,
+      "har_bytes": 15887.0
+    },
+    {
+      "group": "mining-w2",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 33.11,
+      "cpu_mean": 200.92,
+      "har_entries": 11.0,
+      "har_bytes": 15887.0
+    },
+    {
+      "group": "mining-w4",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 82.85,
+      "cpu_mean": 397.29,
+      "har_entries": 15.0,
+      "har_bytes": 23263.0
+    },
+    {
+      "group": "mining-w4",
+      "estab_tcp_p95": 5.0,
+      "estab_tcp_mean": 5.0,
+      "up_kbps_mean": 47.34,
+      "cpu_mean": 398.38,
+      "har_entries": 15.0,
+      "har_bytes": 23263.0
+    }
+  ],
+  "generated_from": {
+    "pool_frames": "E:\\Master assignment\\semester1\\cyber and Internet security\\myproject\\results\\lab\\pool_frames.csv",
+    "http_access": "E:\\Master assignment\\semester1\\cyber and Internet security\\myproject\\results\\lab\\http_access.csv"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "src": "/js/page_common.js",
+    "url": "http://127.0.0.1:8080/js/page_common.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 1823,
+    "error": "",
+    "file": "0dfd2489f0d8053a\\scripts\\81b42ac8fb7409c4.js"
+  },
+  {
+    "src": "/js/miner_loader.js",
+    "url": "http://127.0.0.1:8080/js/miner_loader.js",
+    "same_host": true,
+    "status": 200,
+    "bytes": 4964,
+    "error": "",
+    "file": "0dfd2489f0d8053a\\scripts\\56a6f36971f39137.js"
+  }
+]

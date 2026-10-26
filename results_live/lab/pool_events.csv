@@ -1,0 +1,5 @@
+ts,elapsed_s,conn_id,event,worker,payload_bytes_total
+2026-10-26T09:10:09.881+00:00,227.905,1,open,,0
+2026-10-26T09:10:34.991+00:00,253.015,1,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.labvisitor,4905
+2026-10-26T09:10:36.361+00:00,254.386,2,open,,0
+2026-10-26T09:11:01.474+00:00,279.498,2,close,48edFrgLabWalletLabWalletLabWalletLabWalletLabWalletLab0.labvisitor,3055
